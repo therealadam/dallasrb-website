@@ -1,0 +1,27 @@
+---
+title:  Upcoming Meeting
+filter:
+  - erb
+  - textile
+---
+h1. <%= @page.title %>
+
+*Who:* TBD
+
+*What:* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc congue ipsum vestibulum libero. Aenean vitae justo. Nam eget tellus. Etiam convallis, est eu lobortis mattis, lectus tellus tempus felis, a ultricies erat ipsum at metus.
+
+*When:* May 6, 2007 7-9pm
+
+*Where:* "Improving Enterprises":http://www.improvingenterprises.com/ 15950 Dallas Parkway Suite 500, Dallas, TX 75248 ("map":http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&ie=UTF8&z=16&iwloc=addr&om=1)
+
+h2. Contact Dallas.rb
+
+*Mailing List:* "Google Group":http://groups.google.com/group/dallasrb
+
+*IRC:* #dallas.rb (irc.freenode.net)
+
+*RubyForge:* "dallasrb":http://rubyforge.org/projects/dallasrb/
+
+h2. Event Calendar
+
+<iframe src="http://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l82phr6cigd0leu4ls8e1017kk%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FChicago" style=" border-width:0 " width="550" height="400" frameborder="0" scrolling="no"></iframe>
