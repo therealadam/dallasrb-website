@@ -8,6 +8,10 @@ end
 
 SITE = Webby.site
 
+SITE.user = 'dallasrb'
+SITE.host = 'dallasrb.org'
+SITE.remote_dir = '/home/dallasrb/dallasrb.org/'
+
 # Load the other rake files in the tasks folder
 Dir.glob(::File.join(%w[tasks *.rake])).sort.each {|fn| import fn}
 
