@@ -4,23 +4,25 @@ filter:
   - erb
   - textile
 ---
-h1. <%= @page.title %>
 
-*Who:* TBD
+Dallas Ruby is the coolest place ever this is our description and Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-*What:* Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc congue ipsum vestibulum libero. Aenean vitae justo. Nam eget tellus. Etiam convallis, est eu lobortis mattis, lectus tellus tempus felis, a ultricies erat ipsum at metus.
+h2. Upcoming Meeting
 
-*When:* May 6, 2007 7-9pm
+<dl>
+  <dt>Who:</dt>
+  <dd>TBD</dd>
 
-*Where:* "Improving Enterprises":http://www.improvingenterprises.com/ 15950 Dallas Parkway Suite 500, Dallas, TX 75248 ("map":http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&ie=UTF8&z=16&iwloc=addr&om=1)
+   <dt>What:</dt>
+   <dd>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nunc congue ipsum vestibulum libero. Aenean vitae justo. Nam eget tellus. Etiam convallis, est eu lobortis mattis, lectus tellus tempus felis, a ultricies erat ipsum at metus.</dd>
+   
+   <dt>When:</dt>
+   <dd>May 6, 2007 7-9pm</dd>
+   
+   <dt>Where:</dt>
+   <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
+ </dl>
 
-h2. Contact Dallas.rb
-
-*Mailing List:* "Google Group":http://groups.google.com/group/dallasrb
-
-*IRC:* #dallas.rb (irc.freenode.net)
-
-*RubyForge:* "dallasrb":http://rubyforge.org/projects/dallasrb/
 
 h2. Event Calendar
 
