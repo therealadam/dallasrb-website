@@ -22,6 +22,7 @@ body {
 /* Headings
  * --------------------------------------------------------------------- */
 h1,h2,h3,h4,h5,h6 { color: <%= @page.color['header'] %>; }
+h4 { border-top: dotted 1px <%= @page.color['border'] %>; font-weight: bold; margin: .5em 0; padding-top: .5em; }
 
 /* Text Elements
  * --------------------------------------------------------------------- */
@@ -63,5 +64,13 @@ p.title {
 }
 
 #header p.title { font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
+
+/* Definition lists
+ * --------------------------------------------------------------------- */
+div.first dl { float: left; width: 100%; }
+div.first dl dt { clear: left; float: left; width: 5em }
+div.first dl dd { border-bottom: dotted 1px <%= @page.color['border'] %>; margin-bottom: .5em; margin-left: 5.5em; padding-bottom: .5em; }
+
+div.last dl dt { font-weight: normal; }
 
 /* EOF */
