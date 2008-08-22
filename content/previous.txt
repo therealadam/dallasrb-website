@@ -1,0 +1,70 @@
+---
+title:  Previous Meetings
+filter:
+  - erb
+  - textile
+---
+
+h1. <%= @page.title %>
+
+Back to "Home":/
+
+h2. September 2, 2008
+
+h3. Tactical Design
+
+I’ve noticed that when people try to improve the state of the art of software design, they try to think bigger: big patterns, big principles, discussions about classes and modules and components, layers and tiers. Last year I heard a talk called “Strategic Design”.
+
+But I’ve personally had a lot better luck thinking small.
+
+In this talk, we’ll explore just a few small-scale, tactical design principles, and how they can help you and your team build better systems.
+
+h3. Glenn Vanderburg
+
+Glenn Vanderburg works at Relevance, Inc., where he helps customers build great systems with Ruby. He has been working with Ruby since 2000, and thinking about good design for a lot longer than that. He lives in the Dallas area.
+
+h2. August 5, 2008
+
+h3. Hacks
+
+The plan for tomorrow's meeting is to hack stuff, together. Here are some ideas:
+
+* Hack on the Dallas.rb website. We're looking to rebuild it with Webby, a neat little static-site CMS written in Ruby. If you've got front-end skills, we could use a lot of help here.
+* Hack on a Ruby Quiz. If you've got a favorite, let the list know and we can work on that one.
+* Whatever project you may already have going.
+
+If you just want to pair with someone else, that works too. I'll probably float around and try and work a little on the website and the quiz.
+
+h2. July 1, 2008
+
+h3. Oh the Fail I've Known
+
+Some things sound like a great idea at the time. Hair bands. Crazy guys with a Casio keyboard. Even the Rails core thought components were a good idea for awhile there. Luckily, we later realize these things are not, in fact, all we thought they were cracked up to be.
+
+Unfortunately, we usually learn these things after you’ve committed to them. Interacting with customers and teammates is hit or miss. Developers have to learn continuously but are left on their own to do so. The side-effects of using some API or feature aren’t often discussed in manuals. So it ends up we usually learn about these things by trying and failing.
+
+Some kinds of experience are hard won. Join Adam Keys as he admits to the most embarrassing albums he owns. Adding to his humiliation, he’ll share the lessons he’s learned the hard way about building applications with Rails. His pain is your gain!
+
+h3. Adam Keys
+
+Adam is a software developer from Dallas, TX. He writes on his weblog, The Real Adam on topics ranging from Ruby to pizza. When not writing bios in the third person, Adam volunteers for dog rescue and as a feral cat caretaker. In general, Adam also likes to make those around him laugh. You’ve been warned.
+
+h2. June 3, 2008
+
+h3. Shoes
+
+Jim Hughes will be sharing information using the Shoes framework.
+
+h2. April 1, 2008
+
+h3. Lightening Talks
+
+We will be opening the floor to anyone who wants to share.  Have you had something you were working on, but didn't need a full meeting to talk about it?  Got a new project you want to show off?   Find some new Ruby code or library that you think others might find interesting?  This is your chance to share it.
+
+Topics can range from 5 to 20 minutes.  Let me know if you have a topic that might go longer.
+
+h2. Before This
+
+There were others, but unfortunately we forgot the keep track of them.
+
+Back to "Home":/

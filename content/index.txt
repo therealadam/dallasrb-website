@@ -5,18 +5,16 @@ filter:
   - textile
 ---
 
-
-
 Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month.  Often there is hacking.  Sometimes there is beer.
 
 h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>TBD</dd>
+  <dd>Glenn Vanderburg</dd>
 
    <dt>What:</dt>
-   <dd>TBD</dd>
+   <dd>Tactical Design</dd>
    
    <dt>When:</dt>
    <dd>September 2, 2008 7-9pm</dd>
@@ -25,6 +23,19 @@ h2. Upcoming Meeting
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
+h3. Tactical Design
+
+I’ve noticed that when people try to improve the state of the art of software design, they try to think bigger: big patterns, big principles, discussions about classes and modules and components, layers and tiers. Last year I heard a talk called “Strategic Design”.
+
+But I’ve personally had a lot better luck thinking small.
+
+In this talk, we’ll explore just a few small-scale, tactical design principles, and how they can help you and your team build better systems.
+
+h3. Glenn Vanderburg
+
+Glenn Vanderburg works at Relevance, Inc., where he helps customers build great systems with Ruby. He has been working with Ruby since 2000, and thinking about good design for a lot longer than that. He lives in the Dallas area.
+
+"Previous Meetings":/previous.html
 
 h2. Event Calendar
 

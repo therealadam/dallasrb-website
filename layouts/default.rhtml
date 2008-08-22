@@ -6,83 +6,92 @@ filter:    erb
     "DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title><%= @page.title %> : Dallas.rb</title>
-   <meta name="author" content="<%= @page.author %>" />
+  <head>
+     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+     <title><%= @page.title %> : Dallas.rb</title>
+     <meta name="author" content="<%= @page.author %>" />
 
-   <!--- Blueprint CSS Framework -->
-   <link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection" />
-   <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print" />
+     <!--- Blueprint CSS Framework -->
+     <link rel="stylesheet" href="css/blueprint/screen.css" type="text/css" media="screen, projection" />
+     <link rel="stylesheet" href="css/blueprint/print.css" type="text/css" media="print" />
 
-   <!-- CodeRay syntax highlighting CSS -->
-   <link rel="stylesheet" href="css/coderay.css" type="text/css" />
+     <!-- CodeRay syntax highlighting CSS -->
+     <link rel="stylesheet" href="css/coderay.css" type="text/css" />
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="css/site.css" type="text/css" media="screen, projection" />
-</head>
-<body>
+     <!-- Homepage CSS -->
+     <link rel="stylesheet" href="css/site.css" type="text/css" media="screen, projection" />
+  </head>
+  <body>
 
-<div class="container">
+    <div class="container">
 
-  <div class="column span-20 prepend-2 append-2 first last" id="header">
-    <h1>Dallas Ruby Brigade</h1>
-  </div>
+      <div class="prepend-2 span-20 append-2 last">
+        <div id="header">
+          <h1><a href="/">Dallas Ruby Brigade</a></h1>
+        </div>
 
-  <div class="column span-14 prepend-2 first">
-     <%= @content %>
-  </div>
+        <div id="content" class="clearfix">
+          
+          <div id="main">
+            <div class="inside">
+              <%= @content %>
+            </div>
+          </div>
 
-  <div class="column span-1">&nbsp;</div>
+          <div id="sidebar">
+            <div class="info">
+              <div class="inside">
+                <p>Meetings are the first Tuesday of each month, from 7-9 PM.</p>
 
-  <div class="column span-5 append-2 last">
-    <div class="box">
-      <p>Meetings are the first Tuesday of each month, from 7-9 PM.</p>
+                <p class="last">Just for our enlightenment, an RSVP to the <a href="http://groups.google.com/group/dallasrb">mailing list</a> is appreciated. That way we have a rough idea of the head count to expect.</p>
+              </div>
+            </div>
 
-      <p class ="last">Just for our enlightenment, an RSVP to the <a href="http://groups.google.com/group/dallasrb">mailing list</a> is appreciated. That way we have a rough idea of the head count to expect.</p>
+            <div class="additional">
+              <div class="inside">
+              	<h4>Contact Dallas.rb</h4>
+
+                  <dl>
+              	    <dt>Mailing List:</dt>
+              	    <dd><a href="http://groups.google.com/group/dallasrb">Google Group</a></dd>
+
+                    <dt>IRC:</dt>
+                    <dd>#dallas.rb (irc.freenode.net)</dd>
+
+                    <dt>RubyForge:</dt>
+                    <dd><a href="http://rubyforge.org/projects/dallasrb/">dallasrb</a></dd>
+                  </dl>
+    
+
+                <h4>Dallas Rubyists</h4>
+
+                <ul>
+                  <li><a href="http://blogs.pragprog.com/cgi-bin/pragdave.cgi">Dave Thomas</a></li>
+                  <li><a href="http://www.vanderburg.org/Blog">Glenn Vanderburg</a></li>
+                  <li><a href="http://mvm.therealadam.com/">Adam Keys</a></li>
+                  <li><a href="http://activ8.us/">Kevin Marvin</a></li>
+                  <li><a href="http://www.mckinneystation.com/">Geoffrey Dagley</a></li>
+                  <li><a href="http://unkind2monkeys.com/">Jim Hughes</a></li>
+                </ul>
+    
+                <p>(Want to get listed here? Talk to Adam Keys? about it at the next meeeting!)</p>
+    
+                <h4>Ruby On The Web</h4>
+
+                <ul> 
+                  <li><a href="http://www.ruby-lang.org/">Ruby</a> – The Ruby website.</li>
+                  <li><a href="http://rubyonrails.org/">Rails</a> – Perhaps you’ve heard of it?</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div id="footer">
+          <p>This website was created with <a href="http://webby.rubyforge.org">Webby</a></p>
+        </div>
+      </div>
+
     </div>
-
-  	<h4>Contact Dallas.rb</h4>
-
-      <dl>
-  	    <dt>Mailing List:</dt>
-  	    <dd><a href="http://groups.google.com/group/dallasrb">Google Group</a></dd>
-
-        <dt>IRC:</dt>
-        <dd>#dallas.rb (irc.freenode.net)</dd>
-
-        <dt>RubyForge:</dt>
-        <dd><a href="http://rubyforge.org/projects/dallasrb/">dallasrb</a></dd>
-      </dl>
-    
-
-    <h4>Dallas Rubyists</h4>
-
-    <ul>
-      <li><a href="http://blogs.pragprog.com/cgi-bin/pragdave.cgi">Dave Thomas</a></li>
-      <li><a href="http://www.vanderburg.org/Blog">Glenn Vanderburg</a></li>
-      <li><a href="http://mvm.therealadam.com/">Adam Keys</a></li>
-      <li><a href="http://activ8.us/">Kevin Marvin</a></li>
-      <li><a href="http://www.mckinneystation.com/">Geoffrey Dagley</a></li>
-      <li><a href="http://unkind2monkeys.com/">Jim Hughes</a></li>
-    </ul>
-    
-    <p>(Want to get listed here? Talk to Adam Keys? about it at the next meeeting!)</p>
-    
-    <h4>Ruby elsewhere on the web</h4>
-
-    <ul> 
-      <li><a href="http://www.ruby-lang.org/">Ruby</a> – The Ruby website.</li>
-      <li><a href="http://rubyonrails.org/">Rails</a> – Perhaps you’ve heard of it?</li>
-    </ul>
-    
-  </div>
-
-  <div class="column span-20 prepend-2 append-2 first last" id="footer">
-    <hr />
-    <p>This website was created with <a href="http://webby.rubyforge.org">Webby</a></p>
-  </div>
-
-</div>
-</body>
+  </body>
 </html>

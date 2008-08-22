@@ -4,10 +4,10 @@ filter:    erb
 layout:    nil   # no layout
 
 color:
-  border:      "#ddd"
+  border:      "#800000"
   header:      "#111"
-  link:        "#125AA7"
-  link-hover:  "#000"
+  link:        "#800000"
+  link-hover:  "#000000"
   blockquote:  "#666"
   box-bg:      "#eee"
   highlight:   "#B2CCFF"
@@ -17,12 +17,13 @@ color:
 
 body {
   font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+  background-color: #000000;
 }
 
 /* Headings
  * --------------------------------------------------------------------- */
 h1,h2,h3,h4,h5,h6 { color: <%= @page.color['header'] %>; }
-h4 { border-top: dotted 1px <%= @page.color['border'] %>; font-weight: bold; margin: .5em 0; padding-top: .5em; }
+h4 { font-weight: bold; }
 
 /* Text Elements
  * --------------------------------------------------------------------- */
@@ -72,5 +73,40 @@ div.first dl dt { clear: left; float: left; width: 5em }
 div.first dl dd { border-bottom: dotted 1px <%= @page.color['border'] %>; margin-bottom: .5em; margin-left: 5.5em; padding-bottom: .5em; }
 
 div.last dl dt { font-weight: normal; }
+
+div#header a:hover {
+  color: #FFFFFF;
+}
+div#content { 
+  background-color: #FFFFFF;
+  border: 2px solid <%= @page.color['border'] %>;
+}
+
+div#main {
+  width: 75%;
+  float: left;
+}
+
+div#sidebar {
+  width: 25%;
+  float: left;
+}
+
+div.inside {
+  padding: 1em;
+}
+
+div#main div.inside {
+  border-right: 2px solid <%= @page.color['border'] %>;  
+}
+
+div#sidebar div.info {
+  border-bottom: 2px solid <%= @page.color['border'] %>;  
+  background:#eee;
+}
+
+div#footer, div#footer a {
+  color: #FFFFFF;  
+}
 
 /* EOF */
