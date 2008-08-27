@@ -17,7 +17,9 @@ color:
 
 body {
   font-family: Verdana, "Bitstream Vera Sans", sans-serif;
-  background-color: #000000;
+	background: #000000 url("/images/rubybanner.png") no-repeat top center;
+	padding-top: 227px;
+	margin: 0;
 }
 
 /* Headings
@@ -74,8 +76,9 @@ div.first dl dd { border-bottom: dotted 1px <%= @page.color['border'] %>; margin
 
 div.last dl dt { font-weight: normal; }
 
-div#header a:hover {
-  color: #FFFFFF;
+div#header {
+  display: none;
+  height: 0px;
 }
 div#content { 
   background-color: #FFFFFF;
@@ -83,12 +86,12 @@ div#content {
 }
 
 div#main {
-  width: 75%;
+  width: 76%;
   float: left;
 }
 
 div#sidebar {
-  width: 25%;
+  width: 24%;
   float: left;
 }
 
