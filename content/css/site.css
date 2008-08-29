@@ -112,4 +112,12 @@ div#footer, div#footer a {
   color: #FFFFFF;  
 }
 
+div#future_meetings {
+  border: 1px solid <%= @page.color['border'] %>;  
+  float: right;
+  margin-left: 1em;
+  width: 25%;
+  padding: 1em;
+  background:#eee;
+}
 /* EOF */

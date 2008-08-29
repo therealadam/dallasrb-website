@@ -1,11 +1,20 @@
 ---
-title:  Upcoming Meeting
+title:  Dallas Ruby Brigade
 filter:
   - erb
   - textile
 ---
 
 Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month.  Often there is hacking.  Sometimes there is beer.
+
+<div id='future_meetings'>
+h2. Future Meetings
+
+* *Oct* - Puppet, Capistrano and Other Ruby SysAdmin tricks
+* *Nov* - Full-text Search Solutions in Ruby
+
+</div>
+
 
 h2. Upcoming Meeting
 
