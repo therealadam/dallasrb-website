@@ -13,7 +13,7 @@ h2. October 7, 2008
 
 h3. Configuration management of production Rails environments with Puppet
 
-At FiveRuns, we utilize Reductive Labs's Puppet to manage the deployment
+At "FiveRuns":http://www.fiveruns.com, we utilize Reductive Labs's Puppet to manage the deployment
 and configuration of our production architecture.  In this talk I will
 cover:
 
@@ -24,7 +24,7 @@ cover:
 
 h3. Matt Swain
 
-Matt Swain works at "FiveRuns":http://www.fiveruns.com.
+Matt has been a long-time *nix geek and loves trying to automate himself out of a job.  He enjoys working very closely with developers on custom applications, and he has been doing exactly that since 2001.  A recent veteran of Symantec's anti-phisihing 24x7 ops team, Matt currently manages Fiverun's internal and external computing infrastructures.
 
 h2. September 2, 2008
 
