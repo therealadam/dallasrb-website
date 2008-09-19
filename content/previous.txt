@@ -9,6 +9,23 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. October 7, 2008
+
+h3. Configuration management of production Rails environments with Puppet
+
+At FiveRuns, we utilize Reductive Labs's Puppet to manage the deployment
+and configuration of our production architecture.  In this talk I will
+cover:
+
+* Basic puppet architecture (puppetmaster, puppet clients)
+* Basic overview of the puppet descriptor language
+* Deployment of a rails platform (ruby, gems, rails, mysql, webserver)
+* Configuration management of a production infrastructure.
+
+h3. Matt Swain
+
+Matt Swain works at "FiveRuns":http://www.fiveruns.com.
+
 h2. September 2, 2008
 
 h3. Tactical Design
@@ -21,7 +38,7 @@ In this talk, we’ll explore just a few small-scale, tactical design principles
 
 h3. Glenn Vanderburg
 
-Glenn Vanderburg works at Relevance, Inc., where he helps customers build great systems with Ruby. He has been working with Ruby since 2000, and thinking about good design for a lot longer than that. He lives in the Dallas area.
+Glenn Vanderburg works at "Relevance, Inc.":http://www.thinkrelevance.com, where he helps customers build great systems with Ruby. He has been working with Ruby since 2000, and thinking about good design for a lot longer than that. He lives in the Dallas area.
 
 h2. August 5, 2008
 

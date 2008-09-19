@@ -20,29 +20,32 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Glenn Vanderburg</dd>
+  <dd>Matt Swain</dd>
 
    <dt>What:</dt>
-   <dd>Tactical Design</dd>
+   <dd>Configuration management of production Rails environments with Puppet</dd>
    
    <dt>When:</dt>
-   <dd>September 2, 2008 7-9pm</dd>
+   <dd>October 7, 2008 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Tactical Design
+h3. Configuration management of production Rails environments with Puppet
 
-I’ve noticed that when people try to improve the state of the art of software design, they try to think bigger: big patterns, big principles, discussions about classes and modules and components, layers and tiers. Last year I heard a talk called “Strategic Design”.
+At FiveRuns, we utilize Reductive Labs's Puppet to manage the deployment
+and configuration of our production architecture.  In this talk I will
+cover:
 
-But I’ve personally had a lot better luck thinking small.
+* Basic puppet architecture (puppetmaster, puppet clients)
+* Basic overview of the puppet descriptor language
+* Deployment of a rails platform (ruby, gems, rails, mysql, webserver)
+* Configuration management of a production infrastructure.
 
-In this talk, we’ll explore just a few small-scale, tactical design principles, and how they can help you and your team build better systems.
+h3. Matt Swain
 
-h3. Glenn Vanderburg
-
-Glenn Vanderburg works at Relevance, Inc., where he helps customers build great systems with Ruby. He has been working with Ruby since 2000, and thinking about good design for a lot longer than that. He lives in the Dallas area.
+Matt Swain works at "FiveRuns":http://www.fiveruns.com.
 
 "Previous Meetings":/previous.html
 
