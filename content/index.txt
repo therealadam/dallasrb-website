@@ -20,32 +20,23 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Matt Swain</dd>
+  <dd>The Dallas.rb Search Expert Strike-team</dd>
 
    <dt>What:</dt>
-   <dd>Configuration management of production Rails environments with Puppet</dd>
+   <dd>Ruby and Searching</dd>
    
    <dt>When:</dt>
-   <dd>October 7, 2008 7-9pm</dd>
+   <dd>Nov 11, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Configuration management of production Rails environments with Puppet
+h3. Building full-text search into your Rails application
 
-At "FiveRuns":http://www.fiveruns.com, we utilize Reductive Labs's Puppet to manage the deployment
-and configuration of our production architecture.  In this talk I will
-cover:
+We will be looking at different searching solutions using Ruby.   So far we have people presenting on Ferret, Sphinx and Xapien. If you've had experience with Solr or another full-text index, feel free to come and share them!
 
-* Basic puppet architecture (puppetmaster, puppet clients)
-* Basic overview of the puppet descriptor language
-* Deployment of a rails platform (ruby, gems, rails, mysql, webserver)
-* Configuration management of a production infrastructure.
-
-h3. Matt Swain
-
-Matt has been a long-time *nix geek and loves trying to automate himself out of a job.  He enjoys working very closely with developers on custom applications, and he has been doing exactly that since 2001.  A recent veteran of Symantec's anti-phisihing 24x7 ops team, Matt currently manages Fiverun's internal and external computing infrastructures.
+We will have time at the beginning of the meeting for you to share little things that you have found, worked on, or generally thought was cool in Ruby recently.
 
 "Previous Meetings":/previous.html
 
