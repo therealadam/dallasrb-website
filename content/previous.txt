@@ -9,6 +9,14 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. November 11, 2008
+
+h3. Building full-text search into your Rails application
+
+We will be looking at different searching solutions using Ruby.   So far we have people presenting on Ferret, Sphinx and Xapien. If you've had experience with Solr or another full-text index, feel free to come and share them!
+
+We will have time at the beginning of the meeting for you to share little things that you have found, worked on, or generally thought was cool in Ruby recently.
+
 h2. October 7, 2008
 
 h3. Configuration management of production Rails environments with Puppet
