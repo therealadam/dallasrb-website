@@ -9,6 +9,26 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. Upcoming Meeting
+
+<dl>
+  <dt>Who:</dt>
+  <dd>James Robertson</dd>
+
+   <dt>What:</dt>
+   <dd>Smalltalk</dd>
+   
+   <dt>When:</dt>
+   <dd>Jan 6, 7-9pm</dd>
+   
+   <dt>Where:</dt>
+   <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
+ </dl>
+
+h3. Smalltalk
+
+With all the comparisons made between Ruby and Smalltalk and the excitement over the MagLev Ruby VM you might be wanting to know more about Smalltalk. Come and learn more about Smalltalk from James Robertson.
+
 h2. November 11, 2008
 
 h3. Building full-text search into your Rails application

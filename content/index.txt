@@ -21,23 +21,21 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>The Dallas.rb Search Expert Strike-team</dd>
+  <dd>James Robertson</dd>
 
    <dt>What:</dt>
-   <dd>Ruby and Searching</dd>
+   <dd>Smalltalk</dd>
    
    <dt>When:</dt>
-   <dd>Nov 11, 7-9pm</dd>
+   <dd>Jan 6, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Building full-text search into your Rails application
+h3. Smalltalk
 
-We will be looking at different searching solutions using Ruby.   So far we have people presenting on Ferret, Sphinx and Xapien. If you've had experience with Solr or another full-text index, feel free to come and share them!
-
-We will have time at the beginning of the meeting for you to share little things that you have found, worked on, or generally thought was cool in Ruby recently.
+With all the comparisons made between Ruby and Smalltalk and the excitement over the MagLev Ruby VM you might be wanting to know more about Smalltalk. Come and learn more about Smalltalk from James Robertson.
 
 "Previous Meetings":/previous.html
 
