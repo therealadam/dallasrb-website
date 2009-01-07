@@ -35,7 +35,7 @@ h2. Upcoming Meeting
 
 h3. Smalltalk
 
-With all the comparisons made between Ruby and Smalltalk and the excitement over the MagLev Ruby VM you might be wanting to know more about Smalltalk. Come and learn more about Smalltalk from James Robertson.
+With all the comparisons made between Ruby and Smalltalk and the excitement over the MagLev Ruby VM you might be wanting to know more about Smalltalk. Come and learn more about Smalltalk from "James Robertson":http://www.cincomsmalltalk.com/blog/blogView.
 
 "Previous Meetings":/previous.html
 
