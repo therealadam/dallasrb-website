@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* March: TBD
-* April: TBD
+* May: TBD
+* June: TBD
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -26,26 +26,20 @@ h2. Upcoming Meeting
   <dd>You (and everybody else)</dd>
 
    <dt>What:</dt>
-   <dd>Your Ruby Knowledge</dd>
+   <dd>Ruby Hacking. Again!</dd>
    
    <dt>When:</dt>
-   <dd>Feb 3, 7-9pm</dd>
+   <dd>April 7, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Share Your Ruby Knowledge
+h3. Ruby Hacking. Again!
 
-Being part of community is more than just sitting on the sidelines and watching everyone else have all the fun.  Come out this month and share one thing (or more) that you have been working on, playing with, or generally think is cool in Ruby.  It might be a code snippet or new gem you found. It can be Rails/Merb related (plugins/ apps/ secret cool shortcuts) if that is where you have been spending your days lately.  
+After the great response and turnout we will have another hands-on hack night at the Dallas.rb.  Come prepared to hack with everyone or just look over someone's shoulder.  You will have a chance to share on any code snippets, projects, or anything else you might have.  Don't have anything to share and just want to hack?  Come on and hang out with everyone else.  Got questions or need help with a project you are working on?  Come out and get some more eyes on it to help you out.
 
-General guidelines:
-- Short topics (5 to 15 min, longer if needed)
-- Formal slides are acceptable, but not required
-
-Be sure to reply back to the group if you are planning on attending, even if you won't be presenting, so we can know how many people to expect.  
-
-Feel free to post the topic(s) that you might talk about.  If you have something you would like to learn about, post it to the group, in case someone is looking for ideas.
+Be sure to RSVP so we will know how many to plan for.  The past few meetings, parking has been limited out front, but there is also a garage in the back easily accessible by driving around the south side of the building.  Park on the south side of garage (near vacant field) and come into the south building.
 
 "Previous Meetings":/previous.html
 

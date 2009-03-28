@@ -9,6 +9,22 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. April 7, 2009
+
+h3. Ruby Hacking. Again!
+
+After the great response and turnout we will have another hands-on hack night at the Dallas.rb.  Come prepared to hack with everyone or just look over someone's shoulder.  You will have a chance to share on any code snippets, projects, or anything else you might have.  Don't have anything to share and just want to hack?  Come on and hang out with everyone else.  Got questions or need help with a project you are working on?  Come out and get some more eyes on it to help you out.
+
+Be sure to RSVP so we will know how many to plan for.  The past few meetings, parking has been limited out front, but there is also a garage in the back easily accessible by driving around the south side of the building.  Park on the south side of garage (near vacant field) and come into the south building.
+
+h2. March 3, 2009
+
+h3. Ruby Hacking
+
+We will have a hands-on hack night at the Dallas.rb.  Come prepared to hack with everyone or just look over someone's shoulder.  We will be looking at tinyrb ("http://code.macournoyer.com/tinyrb/":http://code.macournoyer.com/tinyrb/), getting Rails apps started fast with Basejumper ("http://github.com/gdagley/basejumper":http://github.com/gdagley/basejumper), or anything else you might have.  Got another project that people would be interested in?  Come show it off.  Got questions or need help with a project you are working on?  Come out and get some more eyes on it to help you out.
+
+Be sure to RSVP so we will know how many to plan for.  The past few meetings, parking has been limited out front, but there is also a garage in the back easily accessible by driving around the south side of the building.  Park on the south side of garage (near vacant field) and come into the south building.
+
 h2. February 3, 2009
 
 h3. Share Your Ruby Knowledge
