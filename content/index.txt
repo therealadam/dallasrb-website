@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* May: TBD
-* June: TBD
+* July: TBD
+* August: TBD
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -26,20 +26,26 @@ h2. Upcoming Meeting
   <dd>You (and everybody else)</dd>
 
    <dt>What:</dt>
-   <dd>Ruby Hacking. Again!</dd>
+   <dd>Mongo DB</dd>
    
    <dt>When:</dt>
-   <dd>April 7, 7-9pm</dd>
+   <dd>June 2, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Ruby Hacking. Again!
+h3. Mongo DB
 
-After the great response and turnout we will have another hands-on hack night at the Dallas.rb.  Come prepared to hack with everyone or just look over someone's shoulder.  You will have a chance to share on any code snippets, projects, or anything else you might have.  Don't have anything to share and just want to hack?  Come on and hang out with everyone else.  Got questions or need help with a project you are working on?  Come out and get some more eyes on it to help you out.
+"MongoDB":http://www.mongodb.org - A document store for Ruby that doesn't rhyme with ouch
 
-Be sure to RSVP so we will know how many to plan for.  The past few meetings, parking has been limited out front, but there is also a garage in the back easily accessible by driving around the south side of the building.  Park on the south side of garage (near vacant field) and come into the south building.
+* Document stores - A new way of thinking
+* MongoDB features
+* Ruby drivers and "MongoRecord":http://github.com/mongodb/mongo-activerecord-ruby/tree/master
+
+h3. Wynn Netherland
+
+Wynn Netherland is founder and Pixel Pusher at "Squeejee":http://squeejee.com/, an Addison-based Rails shop and makers of good clean fun. Their latest app, "Tweet Congress":http://tweetcongress.org/ recently won a "SXSW Web Award":http://mashable.com/2009/03/15/best-of-show-sxsw-2009/ for activism and uses "MongoDB":http://www.mongodb.org for much of its storage.
 
 "Previous Meetings":/previous.html
 

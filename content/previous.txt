@@ -9,6 +9,20 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. June 2. 2009
+
+h3. Mongo DB
+
+"MongoDB":http://www.mongodb.org - A document store for Ruby that doesn't rhyme with ouch
+
+* Document stores - A new way of thinking
+* MongoDB features
+* Ruby drivers and "MongoRecord":http://github.com/mongodb/mongo-activerecord-ruby/tree/master
+
+h3. Wynn Netherland
+
+Wynn Netherland is founder and Pixel Pusher at "Squeejee":http://squeejee.com/, an Addison-based Rails shop and makers of good clean fun. Their latest app, "Tweet Congress":http://tweetcongress.org/ recently won a "SXSW Web Award":http://mashable.com/2009/03/15/best-of-show-sxsw-2009/ for activism and uses "MongoDB":http://www.mongodb.org for much of its storage.
+
 h2. April 7, 2009
 
 h3. Ruby Hacking. Again!
