@@ -23,7 +23,7 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>You (and everybody else)</dd>
+  <dd>Wynn Netherland</dd>
 
    <dt>What:</dt>
    <dd>Mongo DB</dd>
