@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* July: TBD
-* August: TBD
+* August: Software Craftsmanship, Mentorship, and Coding Mentors
+* September: TBD
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,29 +23,25 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Wynn Netherland</dd>
+  <dd>B.J. Allen</dd>
 
    <dt>What:</dt>
-   <dd>Mongo DB</dd>
+   <dd>Ruby on the Desktop(s)</dd>
    
    <dt>When:</dt>
-   <dd>June 2, 7-9pm</dd>
+   <dd>July 7, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Mongo DB
+h3. Ruby on the Desktop(s)
 
-"MongoDB":http://www.mongodb.org - A document store for Ruby that doesn't rhyme with ouch
+You yawn when you read about static languages adding dynamic features and frameworks adding Rails-like functionality, but developing desktop applications in Ruby has peaked your interest. Real Ruby solutions are coming to both the Mac and the PC. We'll look at an application built with both MacRuby and IronRuby to show the state of Ruby on the desktop. We'll compare the platforms, the UI tools, and the pros and cons of using Ruby in these environments.
 
-* Document stores - A new way of thinking
-* MongoDB features
-* Ruby drivers and "MongoRecord":http://github.com/mongodb/mongo-activerecord-ruby/tree/master
+h3. B.J. Allen
 
-h3. Wynn Netherland
-
-Wynn Netherland is founder and Pixel Pusher at "Squeejee":http://squeejee.com/, an Addison-based Rails shop and makers of good clean fun. Their latest app, "Tweet Congress":http://tweetcongress.org/ recently won a "SXSW Web Award":http://mashable.com/2009/03/15/best-of-show-sxsw-2009/ for activism and uses "MongoDB":http://www.mongodb.org for much of its storage.
+B.J. Allen is currently an application developer at "RD2, Inc":http://rd2inc.com/, where he works mainly on .NET web and desktop applications for a wide variety clients. While primarily using C# at work, he also began using Ruby in 2006 and takes every opportunity to bring Ruby into his work day.
 
 "Previous Meetings":/previous.html
 
