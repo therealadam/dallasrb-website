@@ -47,4 +47,4 @@ B.J. Allen is currently an application developer at "RD2, Inc":http://rd2inc.com
 
 h2. Event Calendar
 
-<iframe src="http://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l82phr6cigd0leu4ls8e1017kk%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FChicago" style=" border-width:0 " width="550" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l82phr6cigd0leu4ls8e1017kk%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FChicago" style=" border-width:0 " width="500" height="400" frameborder="0" scrolling="no"></iframe>

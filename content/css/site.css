@@ -86,12 +86,12 @@ div#content {
 }
 
 div#main {
-  width: 76%;
+  width: 70%;
   float: left;
 }
 
 div#sidebar {
-  width: 24%;
+  width: 30%;
   float: left;
 }
 
@@ -120,4 +120,13 @@ div#future_meetings {
   padding: 1em;
   background:#eee;
 }
+
+#twitroster ul { list-style: none; margin: 0 0 1em 0; padding: 0; }
+#twitroster li { margin-bottom: 1em; position: relative; width: 100%; }
+#twitroster .avatar { position: absolute; }
+#twitroster .avatar img { border: none; }
+#twitroster .username { display:none; }
+#twitroster .name, #twitroster .extra { font-weight: bold; }
+#twitroster .name, #twitroster .tweets, #twitroster .extra { padding-left: 60px; }
+
 /* EOF */
