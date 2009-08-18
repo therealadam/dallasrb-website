@@ -23,44 +23,25 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Derek Lane and Mark McSpadden</dd>
+  <dd>Marshall Culpepper</dd>
 
    <dt>What:</dt>
-   <dd>Software Craftsmanship, Mentorship, and Coding Mentors</dd>
+   <dd>Titanium Platform for Desktop and Mobile Applications</dd>
    
    <dt>When:</dt>
-   <dd>August 4, 7-9pm</dd>
+   <dd>September 1, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Software Craftsmanship, Mentorship, and Coding Mentors
+h3. Titanium Platform for Desktop and Mobile Applications
 
-Derek Lane and Mark McSpadden will "pair present" a look into this trending topic on the Software Development landscape. We will take a quick overview of the many different facets of Software Craftsmanship and spend a little time focused specifically on Mentorship.
+The open-source "Titanium":http://www.appcelerator.com/ platform allows developers to use their existing knowledge of rich web application technologies – JavaScript, Python, Ruby, HTML and CSS – to build desktop and mobile applications. We'll see a brief overview of the things possible in Titanium, and get down and dirty with some Ruby libraries, to showcase the deep integration we have with the Ruby runtime.
 
-We'll then explore a Rails project we've been working on called "Coding Mentors." We'll discuss the project, it's goals and vision, and some of the hurdles (technical, cultural, and personal) we've experienced thus far.
+h3. Marshall Culpepper
 
-We think this will be a great opportunity for you to: 
-
-* Get buzzword compliant in the realm of Software Craftsmanship
-* Understand how Software Craftsmanship can improve your work
-* Find out how to get started either mentoring or apprenticing in a specific discipline
-* Learn from our mistakes/challenges in building a "simple" Rails app
-
-Hope to see you there!
-
-h3. Derek Lane
-
-After years of fumbling around with the backyard grill, Derek Lane has recently found his life's calling as a BBQ Life Coach and a practitioner of all things BBQ. Oddly enough, he has also been known to ply both the art and science of Software Craftsmanship over the last couple of decades as well. Striving to find efficient and productive ways to build software has taken Lane on a journey where he has worn various hats including mentor, coach, architect, strategist, visionary, manager, developer, trainer, and methodologist, all while striving to apply the best technology for the job at hand. He is also a contributor to various projects as an author, presenter, committer, and technical reviewer.
-
-Lane is a big believer in the value of volunteer based communities. This belief led him to start several technology based user groups including the Dallas/Fort Worth Texas MicroJava User Group, the Oklahoma City Java User Group (OKCJUG), and The Next Big JDK Thing User Group in Dallas, Texas. Lane has been active as a member, presenter, and mentor for over a decade at various technology user groups across the Midwest and Southern US. He has also been spotted dispensing his unorthodox and zany presentation skills at various conferences including the nationwide No Fluff Just Stuff Tour, and the Dallas and Tulsa Tech Fests.
-
-h3. Mark McSpadden
-
-Mark is a developer helping the financial services industry find it's way (securely) into this web savvy world. Since starting on Rails (and Ruby) in 2005, he has benefited greatly from the help, guidance, and contributions of others in the industry. This camaraderie has led to a exploration into Software Craftsmanship and Mentorship and ways to improve these efforts within the Ruby community.
-
-Mark works at <a href="http://www.thegarlandgroup.net">The Garland Group</a> on projects like <a href="http://www.banktastic.com">Banktastic</a> and <a href="http://www.riskkey.com">RiskKey</a> and keeps busy "after-hours" with side projects like <a href="http://www.firehosefilter.com/clouds/cu">The CU Filter</a> and the soon to be announced Coding Mentors.
+Marshall ("@marshall_law":http://twitter.com/marshall_law) is a long-time open source hacker with contributions to many projects including Appcelerator Entourage, Eclipse, Webtools, JBoss, JBoss Tools, Hibernate Tools, and Pydev. He is now the project lead for Appcelerator’s Titanium project, which you can find at "http://www.appcelerator.com":http://www.appcelerator.com.
 
 "Previous Meetings":/previous.html
 

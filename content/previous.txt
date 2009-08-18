@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. September 1, 2009
+
+h3. Titanium Platform for Desktop and Mobile Applications
+
+The open-source "Titanium":http://www.appcelerator.com/ platform allows developers to use their existing knowledge of rich web application technologies – JavaScript, Python, Ruby, HTML and CSS – to build desktop and mobile applications. We'll see a brief overview of the things possible in Titanium, and get down and dirty with some Ruby libraries, to showcase the deep integration we have with the Ruby runtime.
+
+h3. Marshall Culpepper
+
+Marshall ("@marshall_law":http://twitter.com/marshall_law) is a long-time open source hacker with contributions to many projects including Appcelerator Entourage, Eclipse, Webtools, JBoss, JBoss Tools, Hibernate Tools, and Pydev. He is now the project lead for Appcelerator’s Titanium project, which you can find at "http://www.appcelerator.com":http://www.appcelerator.com.
+
 h2. August 4, 2009
 
 h3. Software Craftsmanship, Mentorship, and Coding Mentors
