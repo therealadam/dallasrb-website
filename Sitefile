@@ -1,0 +1,12 @@
+task :default => :build
+
+SITE.user = 'dallasrb'
+SITE.host = 'dallasrb.org'
+SITE.remote_dir = '/home/dallasrb/dallasrb.org/'
+
+desc 'deploy the site to the webserver'
+task :deploy => [:build, 'deploy:rsync']
+
+task :autobuild => :growl
+
+# EOF
