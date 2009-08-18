@@ -11,8 +11,9 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* August: Software Craftsmanship, Mentorship, and Coding Mentors
-* September: TBD
+* October: Lightning Talks
+* November: Flex and Ruby on Rails
+* December: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
