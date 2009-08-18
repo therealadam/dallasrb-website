@@ -47,4 +47,14 @@ Marshall ("@marshall_law":http://twitter.com/marshall_law) is a long-time open s
 
 h2. Event Calendar
 
+h3. Hacknights
+
+We meet on the second, third, and fourth Tuesdays of the month from 7 PM to 9 PM.
+
+* Second Tuesday - "Frosted Java":http://www.yelp.com/biz/frosted-java-frisco
+* Third Tuesday - "Fat Straws":http://www.yelp.com/biz/fat-straws-dallas
+* Fourth Tuesday - "The Pearl Cup":http://www.yelp.com/biz/the-pearl-cup-dallas
+
+Anyone and everyone is invited.
+
 <iframe src="http://www.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=l82phr6cigd0leu4ls8e1017kk%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FChicago" style=" border-width:0 " width="500" height="400" frameborder="0" scrolling="no"></iframe>
