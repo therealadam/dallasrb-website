@@ -11,7 +11,6 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* October: Lightning Talks
 * November: Flex and Ruby on Rails
 * December: TBA
 
@@ -24,25 +23,25 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Marshall Culpepper</dd>
+  <dd>YOU!</dd>
 
    <dt>What:</dt>
-   <dd>Titanium Platform for Desktop and Mobile Applications</dd>
+   <dd>Lightning Talks</dd>
    
    <dt>When:</dt>
-   <dd>September 1, 7-9pm</dd>
+   <dd>October 6, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Titanium Platform for Desktop and Mobile Applications
+h3. Lightning Talks
 
-The open-source "Titanium":http://www.appcelerator.com/ platform allows developers to use their existing knowledge of rich web application technologies – JavaScript, Python, Ruby, HTML and CSS – to build desktop and mobile applications. We'll see a brief overview of the things possible in Titanium, and get down and dirty with some Ruby libraries, to showcase the deep integration we have with the Ruby runtime.
+YOU will be doing lightning talks on whatever YOU want to show off.  Lightning talks are 5-10 minutes of YOU presenting with 5 minutes for people to ask YOU questions.  That means we'll have slots for 7 or 8 of YOU to talk.  So start thinking now about what YOU want present.  This meeting is all about YOU and the cool things YOU are doing.  Are YOU sensing a pattern here?
 
-h3. Marshall Culpepper
+If YOU are not comfortable presenting, feel free to post ideas back to "the mailing list":http://groups.google.com/group/dallasrb.  And if YOU can't think of anything, maybe YOU can take on one of the ideas posted.  There is no reason YOU should feel left out of this meeting :)
 
-Marshall ("@marshall_law":http://twitter.com/marshall_law) is a long-time open source hacker with contributions to many projects including Appcelerator Entourage, Eclipse, Webtools, JBoss, JBoss Tools, Hibernate Tools, and Pydev. He is now the project lead for Appcelerator’s Titanium project, which you can find at "http://www.appcelerator.com":http://www.appcelerator.com.
+We'll see YOU there.
 
 "Previous Meetings":/previous.html
 

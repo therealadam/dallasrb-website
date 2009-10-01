@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. October 6, 2009
+
+h3. Lightning Talks
+
+YOU will be doing lightning talks on whatever YOU want to show off.  Lightning talks are 5-10 minutes of YOU presenting with 5 minutes for people to ask YOU questions.  That means we'll have slots for 7 or 8 of YOU to talk.  So start thinking now about what YOU want present.  This meeting is all about YOU and the cool things YOU are doing.  Are YOU sensing a pattern here?
+
+If YOU are not comfortable presenting, feel free to post ideas back to "the mailing list":http://groups.google.com/group/dallasrb.  And if YOU can't think of anything, maybe YOU can take on one of the ideas posted.  There is no reason YOU should feel left out of this meeting :)
+
+We'll see YOU there.
+
 h2. September 1, 2009
 
 h3. Titanium Platform for Desktop and Mobile Applications
