@@ -23,26 +23,26 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>YOU!</dd>
+  <dd>Jonathan Campos</dd>
 
    <dt>What:</dt>
-   <dd>Lightning Talks</dd>
+   <dd>Ruby and Flex :: The Fastest Way To RIA</dd>
    
    <dt>When:</dt>
-   <dd>October 6, 7-9pm</dd>
+   <dd>November 3rd, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Lightning Talks
+h3. Ruby and Flex :: The Fastest Way To RIA
 
-YOU will be doing lightning talks on whatever YOU want to show off.  Lightning talks are 5-10 minutes of YOU presenting with 5 minutes for people to ask YOU questions.  That means we'll have slots for 7 or 8 of YOU to talk.  So start thinking now about what YOU want present.  This meeting is all about YOU and the cool things YOU are doing.  Are YOU sensing a pattern here?
+Ruby is one of the fastest (and most enjoyable) languages to program in for middle tier development. Flex is the fastest (and most enjoyable) front layer development framework. Evaluating AMF and using services provided by Ruby (specifically Ruby on Rails) we will see how Flex and Ruby is the fastest way to develop your enterprise level applications.
 
-If YOU are not comfortable presenting, feel free to post ideas back to "the mailing list":http://groups.google.com/group/dallasrb.  And if YOU can't think of anything, maybe YOU can take on one of the ideas posted.  There is no reason YOU should feel left out of this meeting :)
+h3. Jonathan Campos
 
-We'll see YOU there.
-
+Jonathan Campos has been specifically building web applications since 2000 using a variety of tools and languages for many different clients. The technologies include: PHP, MYSQL, POSTGRES, Flash, Flex, AIR, Actionscript, Javascript, and Ruby. Jonathan is currently a Principal Architect at "Miller and Associates":http://mmillerassociates.com/ in Dallas Texas and Co-Owner of UnitedMindset with friend "Dimi Arhontidis":http://unitedmindset.com/dimi_arhontidis. Jonathan leads various development teams and advises for multiple companies around the world along with being an active trainer in Flex development.
+ 
 "Previous Meetings":/previous.html
 
 h2. Event Calendar

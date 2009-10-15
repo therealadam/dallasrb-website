@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. November 3, 2009
+
+h3. Ruby and Flex :: The Fastest Way To RIA
+
+Ruby is one of the fastest (and most enjoyable) languages to program in for middle tier development. Flex is the fastest (and most enjoyable) front layer development framework. Evaluating AMF and using services provided by Ruby (specifically Ruby on Rails) we will see how Flex and Ruby is the fastest way to develop your enterprise level applications.
+
+h3. Jonathan Campos
+
+Jonathan Campos has been specifically building web applications since 2000 using a variety of tools and languages for many different clients. The technologies include: PHP, MYSQL, POSTGRES, Flash, Flex, AIR, Actionscript, Javascript, and Ruby. Jonathan is currently a Principal Architect at "Miller and Associates":http://mmillerassociates.com/ in Dallas Texas and Co-Owner of UnitedMindset with friend "Dimi Arhontidis":http://unitedmindset.com/dimi_arhontidis. Jonathan leads various development teams and advises for multiple companies around the world along with being an active trainer in Flex development.
+
 h2. October 6, 2009
 
 h3. Lightning Talks
