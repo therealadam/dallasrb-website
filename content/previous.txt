@@ -9,6 +9,22 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. December 1, 2009
+
+h3. Just for Fun
+
+Remember when you started using Ruby? That time when it was fun to tinker with things, write little amusing programs, explore new things. A time that you didn't worry about the quality of garbage collectors or what lambda syntax is the best. Back when coding was more fun and less serious?
+
+Why not get back to those days? Sure, you can make a pretty good living writing Ruby for monies. But, your inner child, your inner artist, is waiting for you to come out and play, to come out and create.
+
+See what fun other people are up to, discover the fun you might be missing out on, and learn how to have fun even when you do have to write production code for monies.
+
+h3. Adam Keys
+
+Adam Keys is a software developer, entertainer and lover of animals. He's written software in too many languages to name at startups, small businesses and Fortune 100 giants. His philosophy of coding is to write less code and have more fun writing it.
+
+Outside of software development, Adam has studied double bass performance, performed standup comedy and written comedy sketches. He and his wife volunteer for Central Texas Dachshund Rescue and reside in Dallas, Texas, with 3 dachshunds and 2 tabby cats.
+
 h2. November 3, 2009
 
 h3. Ruby and Flex :: The Fastest Way To RIA

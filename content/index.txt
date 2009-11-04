@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* November: Flex and Ruby on Rails
-* December: TBA
+* January: TBA
+* February: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,25 +23,31 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Jonathan Campos</dd>
+  <dd>Adam Keys</dd>
 
    <dt>What:</dt>
-   <dd>Ruby and Flex :: The Fastest Way To RIA</dd>
+   <dd>Just for Fun</dd>
    
    <dt>When:</dt>
-   <dd>November 3rd, 7-9pm</dd>
+   <dd>December 1, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Ruby and Flex :: The Fastest Way To RIA
+h3. Just for Fun
 
-Ruby is one of the fastest (and most enjoyable) languages to program in for middle tier development. Flex is the fastest (and most enjoyable) front layer development framework. Evaluating AMF and using services provided by Ruby (specifically Ruby on Rails) we will see how Flex and Ruby is the fastest way to develop your enterprise level applications.
+Remember when you started using Ruby? That time when it was fun to tinker with things, write little amusing programs, explore new things. A time that you didn't worry about the quality of garbage collectors or what lambda syntax is the best. Back when coding was more fun and less serious?
 
-h3. Jonathan Campos
+Why not get back to those days? Sure, you can make a pretty good living writing Ruby for monies. But, your inner child, your inner artist, is waiting for you to come out and play, to come out and create.
 
-Jonathan Campos has been specifically building web applications since 2000 using a variety of tools and languages for many different clients. The technologies include: PHP, MYSQL, POSTGRES, Flash, Flex, AIR, Actionscript, Javascript, and Ruby. Jonathan is currently a Principal Architect at "Miller and Associates":http://mmillerassociates.com/ in Dallas Texas and Co-Owner of UnitedMindset with friend "Dimi Arhontidis":http://unitedmindset.com/dimi_arhontidis. Jonathan leads various development teams and advises for multiple companies around the world along with being an active trainer in Flex development.
+See what fun other people are up to, discover the fun you might be missing out on, and learn how to have fun even when you do have to write production code for monies.
+
+h3. Adam Keys
+
+Adam Keys is a software developer, entertainer and lover of animals. He's written software in too many languages to name at startups, small businesses and Fortune 100 giants. His philosophy of coding is to write less code and have more fun writing it.
+
+Outside of software development, Adam has studied double bass performance, performed standup comedy and written comedy sketches. He and his wife volunteer for Central Texas Dachshund Rescue and reside in Dallas, Texas, with 3 dachshunds and 2 tabby cats.
  
 "Previous Meetings":/previous.html
 
