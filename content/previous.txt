@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. January 5, 2010
+
+h3. Robotic Rails
+
+Description: File uploads and writing tests are fairly core to most Rails applications, but they’re also 2 of the things that cause developers the most headache. Taking a glimpse at the "thoughtbot Community Tools":http://thoughtbot.com/community/, you can discover simple approaches to tackle those feats with ease. "Paperclip":http://github.com/thoughtbot/paperclip makes file storage easy and efficient by limiting how much code is needed, as well as reducing your database overhead from the bloat of multiple records per image (as seen with "attachment_fu":http://github.com/technoweenie/attachment_fu). "Shoulda":http://github.com/thoughtbot/shoulda consists of test macros, assertions, and helpers that make testing a breeze.  "Factory Girl":http://github.com/thoughtbot/factory_girl provides a framework and DSL for defining and using factories  to create data records for ruby test suites. The goal is to be less error-prone,  more explicit, and all-around easier to work with than Rails’ fixtures.
+
+h3. Jen Wendling
+
+Jen Wendling is a "software developer and graphic designer living in Dallas":http://jenwendling.com with her 2 adorable chinchillas. Aside from all things technical, she is an avid food enthusiast, loves to bowl and rocks the greens at TopGolf.
+
 h2. December 1, 2009
 
 h3. Just for Fun

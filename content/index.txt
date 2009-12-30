@@ -23,32 +23,26 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Adam Keys</dd>
+  <dd>Jen Wendling</dd>
 
    <dt>What:</dt>
-   <dd>Just for Fun</dd>
+   <dd>Robotic Rails</dd>
    
    <dt>When:</dt>
-   <dd>December 1, 7-9pm</dd>
+   <dd>January 5, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Just for Fun
+h3. Robotic Rails
 
-Remember when you started using Ruby? That time when it was fun to tinker with things, write little amusing programs, explore new things. A time that you didn't worry about the quality of garbage collectors or what lambda syntax is the best. Back when coding was more fun and less serious?
+Description: File uploads and writing tests are fairly core to most Rails applications, but they’re also 2 of the things that cause developers the most headache. Taking a glimpse at the "thoughtbot Community Tools":http://thoughtbot.com/community/, you can discover simple approaches to tackle those feats with ease. "Paperclip":http://github.com/thoughtbot/paperclip makes file storage easy and efficient by limiting how much code is needed, as well as reducing your database overhead from the bloat of multiple records per image (as seen with "attachment_fu":http://github.com/technoweenie/attachment_fu). "Shoulda":http://github.com/thoughtbot/shoulda consists of test macros, assertions, and helpers that make testing a breeze.  "Factory Girl":http://github.com/thoughtbot/factory_girl provides a framework and DSL for defining and using factories  to create data records for ruby test suites. The goal is to be less error-prone,  more explicit, and all-around easier to work with than Rails’ fixtures.
 
-Why not get back to those days? Sure, you can make a pretty good living writing Ruby for monies. But, your inner child, your inner artist, is waiting for you to come out and play, to come out and create.
+h3. Jen Wendling
 
-See what fun other people are up to, discover the fun you might be missing out on, and learn how to have fun even when you do have to write production code for monies.
+Jen Wendling is a "software developer and graphic designer living in Dallas":http://jenwendling.com with her 2 adorable chinchillas. Aside from all things technical, she is an avid food enthusiast, loves to bowl and rocks the greens at TopGolf.
 
-h3. Adam Keys
-
-Adam Keys is a software developer, entertainer and lover of animals. He's written software in too many languages to name at startups, small businesses and Fortune 100 giants. His philosophy of coding is to write less code and have more fun writing it.
-
-Outside of software development, Adam has studied double bass performance, performed standup comedy and written comedy sketches. He and his wife volunteer for Central Texas Dachshund Rescue and reside in Dallas, Texas, with 3 dachshunds and 2 tabby cats.
- 
 "Previous Meetings":/previous.html
 
 h2. Event Calendar
