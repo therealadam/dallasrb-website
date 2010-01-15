@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* January: TBA
-* February: TBA
+* March: TBA
+* April: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,25 +23,33 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Jen Wendling</dd>
+  <dd>Wynn Netherland</dd>
 
    <dt>What:</dt>
-   <dd>Robotic Rails</dd>
+   <dd>CSS Metaframeworks</dd>
    
    <dt>When:</dt>
-   <dd>January 5, 7-9pm</dd>
+   <dd>February 2, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Robotic Rails
+h3. CSS Metaframeworks
 
-Description: File uploads and writing tests are fairly core to most Rails applications, but they’re also 2 of the things that cause developers the most headache. Taking a glimpse at the "thoughtbot Community Tools":http://thoughtbot.com/community/, you can discover simple approaches to tackle those feats with ease. "Paperclip":http://github.com/thoughtbot/paperclip makes file storage easy and efficient by limiting how much code is needed, as well as reducing your database overhead from the bloat of multiple records per image (as seen with "attachment_fu":http://github.com/technoweenie/attachment_fu). "Shoulda":http://github.com/thoughtbot/shoulda consists of test macros, assertions, and helpers that make testing a breeze.  "Factory Girl":http://github.com/thoughtbot/factory_girl provides a framework and DSL for defining and using factories  to create data records for ruby test suites. The goal is to be less error-prone,  more explicit, and all-around easier to work with than Rails’ fixtures.
+Everything you wanted to know about CSS meta frameworks but were too scared to ask including:
 
-h3. Jen Wendling
+* what the heck is a CSS meta framework?
+* why should I care about CSS meta frameworks?
+* who would win in a "Sass":http://sass-lang.com/ vs. "LessCSS":http://lesscss.org deathmatch?
+* how do you go about using meta frameworks with Ruby projects?
+* will I have to give up Dreamweaver?
+* will I be left saying wow, "that's so meta!"?
+* and more!
 
-Jen Wendling is a "software developer and graphic designer living in Dallas":http://jenwendling.com with her 2 adorable chinchillas. Aside from all things technical, she is an avid food enthusiast, loves to bowl and rocks the greens at TopGolf.
+h3. Wynn Netherland
+
+Wynn Netherland is a freelance web designer and Ruby developer in the Dallas area focusing mainly on front-end UI/UX development. You can catch up with Wynn on Twitter by following "@pengwynn":http://twitter.com/pengwynn or on his blog "http://wynnnetherland.com":http://wynnnetherland.com.
 
 "Previous Meetings":/previous.html
 
