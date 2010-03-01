@@ -9,6 +9,12 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. March 2, 2010
+
+h3. JRuby
+
+h3. Kevin Marvin
+
 h2. Februaru 2, 2010
 
 h3. CSS Metaframeworks

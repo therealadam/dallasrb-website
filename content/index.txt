@@ -11,7 +11,6 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* March: TBA
 * April: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
@@ -23,33 +22,21 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Wynn Netherland</dd>
+  <dd>Kevin Marvin</dd>
 
    <dt>What:</dt>
-   <dd>CSS Metaframeworks</dd>
+   <dd>JRuby</dd>
    
    <dt>When:</dt>
-   <dd>February 2, 7-9pm</dd>
+   <dd>March 2, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. CSS Metaframeworks
+h3. JRuby
 
-Everything you wanted to know about CSS meta frameworks but were too scared to ask including:
-
-* what the heck is a CSS meta framework?
-* why should I care about CSS meta frameworks?
-* who would win in a "Sass":http://sass-lang.com/ vs. "LessCSS":http://lesscss.org deathmatch?
-* how do you go about using meta frameworks with Ruby projects?
-* will I have to give up Dreamweaver?
-* will I be left saying wow, "that's so meta!"?
-* and more!
-
-h3. Wynn Netherland
-
-Wynn Netherland is a freelance web designer and Ruby developer in the Dallas area focusing mainly on front-end UI/UX development. You can catch up with Wynn on Twitter by following "@pengwynn":http://twitter.com/pengwynn or on his blog "http://wynnnetherland.com":http://wynnnetherland.com.
+h3. Kevin Marvin
 
 "Previous Meetings":/previous.html
 
