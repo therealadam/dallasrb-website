@@ -11,7 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* April: TBA
+* May: TBA
+* June: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -22,22 +23,26 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Kevin Marvin</dd>
+  <dd>Marshall Yount</dd>
 
    <dt>What:</dt>
-   <dd>JRuby</dd>
+   <dd>Microformats</dd>
    
    <dt>When:</dt>
-   <dd>March 2, 7-9pm</dd>
+   <dd>April 6, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. JRuby
+h3. Microformats
 
-h3. Kevin Marvin
+"Microformats":http://microformats.org/: Most folks love 'em, hate 'em, or know nothing about them.  As a web deveoper, why should I care?  We'll take a look at some examples of microformats out in the wild, and evaluate a couple of ruby libraries, grounded in real world implementation experience on "IsItSafeToVisit":http://isitsafetovisit.com/.
 
+h3. Marshall Yount
+
+Marshall ("@marshallyount":http://www.twitter.com/marshallyount) is a serial monogamist generalist programmer, having "gone steady" with a half dozen different languages and web platforms.  There are times when Ruby seems like she might be "the one," but he hasn't gotten the gumption to put a ring on that finger.  At "Yount Labs":http://yountlabs.com, Marshall enjoys video streaming, helping startups scale, and long walks on the beach.
+ 
 "Previous Meetings":/previous.html
 
 h2. Event Calendar

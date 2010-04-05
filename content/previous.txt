@@ -9,13 +9,23 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. April 6, 2010
+
+h3. Microformats
+
+"Microformats":http://microformats.org/: Most folks love 'em, hate 'em, or know nothing about them.  As a web deveoper, why should I care?  We'll take a look at some examples of microformats out in the wild, and evaluate a couple of ruby libraries, grounded in real world implementation experience on "IsItSafeToVisit":http://isitsafetovisit.com/.
+
+h3. Marshall Yount
+
+Marshall ("@marshallyount":http://www.twitter.com/marshallyount) is a serial monogamist generalist programmer, having "gone steady" with a half dozen different languages and web platforms.  There are times when Ruby seems like she might be "the one," but he hasn't gotten the gumption to put a ring on that finger.  At "Yount Labs":http://yountlabs.com, Marshall enjoys video streaming, helping startups scale, and long walks on the beach.
+
 h2. March 2, 2010
 
 h3. JRuby
 
 h3. Kevin Marvin
 
-h2. Februaru 2, 2010
+h2. February 2, 2010
 
 h3. CSS Metaframeworks
 
