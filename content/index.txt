@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* May: TBA
-* June: TBA
+* July: TBA
+* August: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,25 +23,25 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Marshall Yount</dd>
+  <dd>Ryan McNeill</dd>
 
    <dt>What:</dt>
-   <dd>Microformats</dd>
+   <dd>Ruby at the Dallas Morning News</dd>
    
    <dt>When:</dt>
-   <dd>April 6, 7-9pm</dd>
+   <dd>June 1, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
  </dl>
 
-h3. Microformats
+h3. Ruby at the Dallas Morning News
 
-"Microformats":http://microformats.org/: Most folks love 'em, hate 'em, or know nothing about them.  As a web deveoper, why should I care?  We'll take a look at some examples of microformats out in the wild, and evaluate a couple of ruby libraries, grounded in real world implementation experience on "IsItSafeToVisit":http://isitsafetovisit.com/.
+Learn how Ruby and Rails are influencing the world of journalism. Across the journalism world, Python/Django and Ruby/Rails are changing the way we tell stories to the public. Also, I'll discuss the way Ruby influences our everyday journalism needs with some real world examples. 
 
-h3. Marshall Yount
+h3. Ryan McNeill
 
-Marshall ("@marshallyount":http://www.twitter.com/marshallyount) is a serial monogamist generalist programmer, having "gone steady" with a half dozen different languages and web platforms.  There are times when Ruby seems like she might be "the one," but he hasn't gotten the gumption to put a ring on that finger.  At "Yount Labs":http://yountlabs.com, Marshall enjoys video streaming, helping startups scale, and long walks on the beach.
+Ryan McNeill is the computer-assisted reporting editor at The Dallas Morning News. That's a fancy way of saying he heads data analysis for both short- and long-term stories at The News. McNeill isn't a computer scientist, but a journalist who learned Perl and then Ruby as a way to wrangle odd data sets. Learning Rails is an effort to find new ways to tell stories. Other geeky things we use in the newsroom: SPSS, ArcGIS, UCINet, SQL Server and MySQL --- all in the name of finding stories others don't.
  
 "Previous Meetings":/previous.html
 

@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. June 1, 2010
+
+h3. Ruby at the Dallas Morning News
+
+Learn how Ruby and Rails are influencing the world of journalism. Across the journalism world, Python/Django and Ruby/Rails are changing the way we tell stories to the public. Also, I'll discuss the way Ruby influences our everyday journalism needs with some real world examples. 
+
+h3. Ryan McNeill
+
+Ryan McNeill is the computer-assisted reporting editor at The Dallas Morning News. That's a fancy way of saying he heads data analysis for both short- and long-term stories at The News. McNeill isn't a computer scientist, but a journalist who learned Perl and then Ruby as a way to wrangle odd data sets. Learning Rails is an effort to find new ways to tell stories. Other geeky things we use in the newsroom: SPSS, ArcGIS, UCINet, SQL Server and MySQL --- all in the name of finding stories others don't.
+
 h2. April 6, 2010
 
 h3. Microformats
