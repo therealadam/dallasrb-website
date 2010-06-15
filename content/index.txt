@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* July: TBA
 * August: TBA
+* September: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,25 +23,31 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Ryan McNeill</dd>
+  <dd>Adam Keys</dd>
 
    <dt>What:</dt>
-   <dd>Ruby at the Dallas Morning News</dd>
+   <dd>Rails' Next Top Model: Using ActiveModel and ActiveRelation</dd>
    
    <dt>When:</dt>
-   <dd>June 1, 7-9pm</dd>
+   <dd>July 6, 7-9pm</dd>
    
    <dt>Where:</dt>
-   <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>)</dd>
+   <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd>
  </dl>
 
-h3. Ruby at the Dallas Morning News
+h3. Rails' Next Top Model: Using ActiveModel and ActiveRelation
 
-Learn how Ruby and Rails are influencing the world of journalism. Across the journalism world, Python/Django and Ruby/Rails are changing the way we tell stories to the public. Also, I'll discuss the way Ruby influences our everyday journalism needs with some real world examples. 
+Rails jumped on the scene five years ago in part due to excellent support for connecting database tables to Ruby classes via ActiveRecord. Rails 3 makes two major improvements to this support. ActiveModel makes it easy to turn any old object into one that looks like ActiveRecord to your Rails app. ActiveRelation makes many kinds of queries easier and makes it possible to write some queries that were very difficult in the past.
 
-h3. Ryan McNeill
+In this talk, we’ll learn how to build our own model layer using ActiveRelation and ActiveModel. We’ll start by learning how ARel works and how to use it. Then we’ll write an adapter for our own database. Next, we’ll see what ActiveModel provides and how we use it through ActiveRecord. With this in mind, we’ll add functionality to our models that make them look just like ActiveRecord to our Rails app.
 
-Ryan McNeill is the computer-assisted reporting editor at The Dallas Morning News. That's a fancy way of saying he heads data analysis for both short- and long-term stories at The News. McNeill isn't a computer scientist, but a journalist who learned Perl and then Ruby as a way to wrangle odd data sets. Learning Rails is an effort to find new ways to tell stories. Other geeky things we use in the newsroom: SPSS, ArcGIS, UCINet, SQL Server and MySQL --- all in the name of finding stories others don't.
+In the end, we’ll have a good grasp on the new options for modeling data in Rails 3 and how we can use that to write cleaner apps.
+
+h3. Adam Keys
+
+Adam Keys ("@therealadam":http://twitter.com/therealadam) is a "software developer, entertainer and lover of animals":http://therealadam.com/. He’s written software in too many languages to name at startups, small businesses and Fortune 100 giants. His philosophy of coding is to write less code and have more fun writing it.  He is currently an expert typist at "Gowalla":http://gowalla.com.
+
+Outside of software development, Adam has studied double bass performance, performed standup comedy and written comedy sketches. He and his wife volunteer for "Central Texas Dachshund Rescue":http://www.ctdr.org/ and reside in Dallas, Texas, with 3 dachshunds and 2 tabby cats.
  
 "Previous Meetings":/previous.html
 
