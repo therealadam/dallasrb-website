@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* August: TBA
 * September: TBA
+* October: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,31 +23,29 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Adam Keys</dd>
+  <dd>Marshall Yount</dd>
 
    <dt>What:</dt>
-   <dd>Rails' Next Top Model: Using ActiveModel and ActiveRelation</dd>
+   <dd>Optimizing your Ruby on Rails Web Application</dd>
    
    <dt>When:</dt>
-   <dd>July 6, 7-9pm</dd>
+   <dd>August 3, 7-9pm</dd>
    
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd>
  </dl>
 
-h3. Rails' Next Top Model: Using ActiveModel and ActiveRelation
+h3. Optimizing your Ruby on Rails Web Application
 
-Rails jumped on the scene five years ago in part due to excellent support for connecting database tables to Ruby classes via ActiveRecord. Rails 3 makes two major improvements to this support. ActiveModel makes it easy to turn any old object into one that looks like ActiveRecord to your Rails app. ActiveRelation makes many kinds of queries easier and makes it possible to write some queries that were very difficult in the past.
+Has your Rails app become a bit pokey, now that you actually have users showing up to your site?  Do you miss the days when your app was quick witted, snappy, and the talk of the town?
 
-In this talk, we’ll learn how to build our own model layer using ActiveRelation and ActiveModel. We’ll start by learning how ARel works and how to use it. Then we’ll write an adapter for our own database. Next, we’ll see what ActiveModel provides and how we use it through ActiveRecord. With this in mind, we’ll add functionality to our models that make them look just like ActiveRecord to our Rails app.
+Then come on down to August's Dallas Ruby Brigade meetup for a presentation on Optimizing your Ruby on Rails Web Application.  We'll look at server side performance, database query optimization, and client perceived load times.
 
-In the end, we’ll have a good grasp on the new options for modeling data in Rails 3 and how we can use that to write cleaner apps.
+After a brief presentation on a few of the tools available, we'll roll up our shirt sleeves and optimize some Real Live Code (sacrificial lambs generously provided by actual DRB members).
 
-h3. Adam Keys
+h3. Marshall Yount
 
-Adam Keys ("@therealadam":http://twitter.com/therealadam) is a "software developer, entertainer and lover of animals":http://therealadam.com/. He’s written software in too many languages to name at startups, small businesses and Fortune 100 giants. His philosophy of coding is to write less code and have more fun writing it.  He is currently an expert typist at "Gowalla":http://gowalla.com.
-
-Outside of software development, Adam has studied double bass performance, performed standup comedy and written comedy sketches. He and his wife volunteer for "Central Texas Dachshund Rescue":http://www.ctdr.org/ and reside in Dallas, Texas, with 3 dachshunds and 2 tabby cats.
+Marshall ("@marshallyount":http://www.twitter.com/marshallyount) is a serial monogamist generalist programmer, having "gone steady" with a half dozen different languages and web platforms.  There are times when Ruby seems like she might be "the one," but he hasn't gotten the gumption to put a ring on that finger.  At "Yount Labs":http://yountlabs.com, Marshall enjoys video streaming, helping startups scale, and long walks on the beach.
  
 "Previous Meetings":/previous.html
 
