@@ -9,6 +9,42 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. September 7, 2010
+
+h3. Potpourri
+
+h4. Redis, Resque, and Background processing - Brian Smith
+
+An intro to using "Redis":http://code.google.com/p/redis/ and "Resque":http://github.com/defunkt/resque for all your background processing needs.
+
+h4. How to turn Javascript into web serving awesome! - Kevin Marvin
+
+A brief demonstration of using "NodeJS":http://nodejs.org/, "ExpressJS":http://expressjs.com/, "MongoDB":http://www.mongodb.org/ and "EJS":http://embeddedjs.com/ to make a web app that screams.  We will spend some time talking about:
+* The difficulty in moving to a new, bleeding edge platform
+* Using a framework that so closely resembles Sinatra it could be his evil twin
+* What kinds of performance one can expect from Closure driven development
+* Hacking Helpers - How to type less and include more
+
+h3. Bios:
+
+*Brian* is a developer. He likes code and lots of it. He also likes beer, and once again, lots of it. There's other stuff he likes too. He works on "memoryreel.com":http://memoryreel.com doing awesome things with apis
+
+*Kevin* is a professional amateur.  Currently the CIO of MODx LLC - the company behind the "MODx PHP CMS/CMF":http://modxcms.com/, he's been a systems engineer, network architect, PHP coder, Ruby / Rails coder, and now thinks getting a bloody nose with the latest thing is more fun than anything.
+
+h2. August 3, 2010
+
+h3. Optimizing your Ruby on Rails Web Application
+
+Has your Rails app become a bit pokey, now that you actually have users showing up to your site?  Do you miss the days when your app was quick witted, snappy, and the talk of the town?
+
+Then come on down to August's Dallas Ruby Brigade meetup for a presentation on Optimizing your Ruby on Rails Web Application.  We'll look at server side performance, database query optimization, and client perceived load times.
+
+After a brief presentation on a few of the tools available, we'll roll up our shirt sleeves and optimize some Real Live Code (sacrificial lambs generously provided by actual DRB members).
+
+h3. Marshall Yount
+
+Marshall ("@marshallyount":http://www.twitter.com/marshallyount) is a serial monogamist generalist programmer, having "gone steady" with a half dozen different languages and web platforms.  There are times when Ruby seems like she might be "the one," but he hasn't gotten the gumption to put a ring on that finger.  At "Yount Labs":http://yountlabs.com, Marshall enjoys video streaming, helping startups scale, and long walks on the beach.
+
 h2. July 6, 2010
 
 h3. Rails' Next Top Model: Using ActiveModel and ActiveRelation
