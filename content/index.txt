@@ -22,38 +22,26 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Brian Smith, Kevin Marvin</dd>
+  <dd>Sam Smoot</dd>
 
    <dt>What:</dt>
-   <dd>Potpourri</dd>
-   
+   <dd>Exploring PostgreSQL</dd>
+
    <dt>When:</dt>
-   <dd>September 7, 7-9pm</dd>
-   
+   <dd>October 5, 7-9pm</dd>
+
    <dt>Where:</dt>
    <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd>
  </dl>
 
-h3. Potpourri
+h3. Exploring PostgreSQL
 
-h4. Redis, Resque, and Background processing - Brian Smith
+We'll cover Materialized Views (the basics of denormalization and indexing), LISTEN/NOTIFY (a simple, persistent, reliable queue), Replication (with Bucardo), Windowing Functions (pagination with only one query), functions in general purpose languages (perl), and discuss ways to manage your schema. We'll also cover basics like, "how much data can a database chuck if a database could chuck data", and ways to buy the performance you want on the cheap.
 
-An intro to using "Redis":http://code.google.com/p/redis/ and "Resque":http://github.com/defunkt/resque for all your background processing needs.
+h3. Sam Smoot
 
-h4. How to turn Javascript into web serving awesome! - Kevin Marvin
+I've been using Ruby since v1.80, close to 7 years. I've written and contributed to "DataMapper":http://datamapper.org/, "Harbor":http://wiecklabs.com/, "Sequel":http://sequel.rubyforge.org/, "Rails":http://rubyonrails.org/ as well as various small personal projects. Currently I'm the senior manager at "Wieck Media":http://www.wieck.com/, where we develop sites for Press and Syndication services for clients including Honda, NYTimes, MB-USA, etc. My latest love is shell programming with Bash, and dabbling in networking, virtualization, and enterprise level storage technologies.
 
-A brief demonstration of using "NodeJS":http://nodejs.org/, "ExpressJS":http://expressjs.com/, "MongoDB":http://www.mongodb.org/ and "EJS":http://embeddedjs.com/ to make a web app that screams.  We will spend some time talking about:
-* The difficulty in moving to a new, bleeding edge platform
-* Using a framework that so closely resembles Sinatra it could be his evil twin
-* What kinds of performance one can expect from Closure driven development
-* Hacking Helpers - How to type less and include more
-
-h3. Bios:
-
-*Brian* is a developer. He likes code and lots of it. He also likes beer, and once again, lots of it. There's other stuff he likes too. He works on "memoryreel.com":http://memoryreel.com doing awesome things with apis
-
-*Kevin* is a professional amateur.  Currently the CIO of MODx LLC - the company behind the "MODx PHP CMS/CMF":http://modxcms.com/, he's been a systems engineer, network architect, PHP coder, Ruby / Rails coder, and now thinks getting a bloody nose with the latest thing is more fun than anything.
- 
 "Previous Meetings":/previous.html
 
 h2. Event Calendar

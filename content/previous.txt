@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. October 5, 2010
+
+h3. Exploring PostgreSQL
+
+We'll cover Materialized Views (the basics of denormalization and indexing), LISTEN/NOTIFY (a simple, persistent, reliable queue), Replication (with Bucardo), Windowing Functions (pagination with only one query), functions in general purpose languages (perl), and discuss ways to manage your schema. We'll also cover basics like, "how much data can a database chuck if a database could chuck data", and ways to buy the performance you want on the cheap.
+
+h3. Sam Smoot
+
+I've been using Ruby since v1.80, close to 7 years. I've written and contributed to "DataMapper":http://datamapper.org/, "Harbor":http://wiecklabs.com/, "Sequel":http://sequel.rubyforge.org/, "Rails":http://rubyonrails.org/ as well as various small personal projects. Currently I'm the senior manager at "Wieck Media":http://www.wieck.com/, where we develop sites for Press and Syndication services for clients including Honda, NYTimes, MB-USA, etc. My latest love is shell programming with Bash, and dabbling in networking, virtualization, and enterprise level storage technologies.
+
 h2. September 7, 2010
 
 h3. Potpourri
@@ -65,7 +75,7 @@ h2. June 1, 2010
 
 h3. Ruby at the Dallas Morning News
 
-Learn how Ruby and Rails are influencing the world of journalism. Across the journalism world, Python/Django and Ruby/Rails are changing the way we tell stories to the public. Also, I'll discuss the way Ruby influences our everyday journalism needs with some real world examples. 
+Learn how Ruby and Rails are influencing the world of journalism. Across the journalism world, Python/Django and Ruby/Rails are changing the way we tell stories to the public. Also, I'll discuss the way Ruby influences our everyday journalism needs with some real world examples.
 
 h3. Ryan McNeill
 
@@ -169,7 +179,7 @@ Derek Lane and Mark McSpadden will "pair present" a look into this trending topi
 
 We'll then explore a Rails project we've been working on called "Coding Mentors." We'll discuss the project, it's goals and vision, and some of the hurdles (technical, cultural, and personal) we've experienced thus far.
 
-We think this will be a great opportunity for you to: 
+We think this will be a great opportunity for you to:
 
 * Get buzzword compliant in the realm of Software Craftsmanship
 * Understand how Software Craftsmanship can improve your work
@@ -236,13 +246,13 @@ h2. February 3, 2009
 
 h3. Share Your Ruby Knowledge
 
-Being part of community is more than just sitting on the sidelines and watching everyone else have all the fun.  Come out this month and share one thing (or more) that you have been working on, playing with, or generally think is cool in Ruby.  It might be a code snippet or new gem you found. It can be Rails/Merb related (plugins/ apps/ secret cool shortcuts) if that is where you have been spending your days lately.  
+Being part of community is more than just sitting on the sidelines and watching everyone else have all the fun.  Come out this month and share one thing (or more) that you have been working on, playing with, or generally think is cool in Ruby.  It might be a code snippet or new gem you found. It can be Rails/Merb related (plugins/ apps/ secret cool shortcuts) if that is where you have been spending your days lately.
 
 General guidelines:
 - Short topics (5 to 15 min, longer if needed)
 - Formal slides are acceptable, but not required
 
-Be sure to reply back to the group if you are planning on attending, even if you won't be presenting, so we can know how many people to expect.  
+Be sure to reply back to the group if you are planning on attending, even if you won't be presenting, so we can know how many people to expect.
 
 Feel free to post the topic(s) that you might talk about.  If you have something you would like to learn about, post it to the group, in case someone is looking for ideas.
 
