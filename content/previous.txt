@@ -9,6 +9,32 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. November 2, 2010
+
+h3. Mobile Application Development
+
+h4. Mobile Versions of Web Applications
+
+John will talk about what he did to a desktop version of a "simple" CRM so that it renders nicely on the iPhone and the little tweaks to make it "easier" on the phone.
+
+h4. Making Gowalla Go
+
+Adam will talk about the databases and infrastructure that power Gowalla, how the application is deployed, and how developers work with designers to deliver a top-notch web and mobile experience.
+
+h3. Speakers
+
+h4. John Ivanoff
+
+For "John Ivanoff":http://johnivanoff.blogspot.com, it all stared in 1981 with BASIC and hacking into the main frame to make his friend "absent" from school. In 1996 he found the WWW. Anyone remember Gopher?  Around 2003 I discovered web standards and in 2005 gave a "presentation on web standards":http://john-amy.com/css/presentation/s5-blank.html.
+
+He is currently converting a Classic ASP web app to Rails.  You can find him on Twitter, "@john_ivanoff":http://twitter.com/john_ivanoff, and on github, "johnivanoff":http://github.com/johnivanoff.  And on April 30-May 1, he'll be ridding on the "SAM'S CLUB MS 150 Bike Ride":http://goo.gl/ZiUM. Can he count on your help?
+
+h4. Adam Keys
+
+Adam Keys ("@therealadam":http://twitter.com/therealadam) is a "software developer, entertainer and lover of animals":http://therealadam.com/. He’s written software in too many languages to name at startups, small businesses and Fortune 100 giants. His philosophy of coding is to write less code and have more fun writing it.  He is currently an expert typist at "Gowalla":http://gowalla.com.
+
+Outside of software development, Adam has studied double bass performance, performed standup comedy and written comedy sketches. He and his wife volunteer for "Central Texas Dachshund Rescue":http://www.ctdr.org/ and reside in Dallas, Texas, with 3 dachshunds and 2 tabby cats.
+
 h2. October 5, 2010
 
 h3. Exploring PostgreSQL
