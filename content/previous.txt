@@ -9,6 +9,14 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. December 7, 2010
+
+h3. 2010: A Year in Code
+
+Show off your most shameful, as well as the most awesomest, line(s) of Ruby code you wrote in 2010. Be ready to explain your code, why you wrote it, etc. We will vote on our favorites....maybe even have prizes for the winner and the loser.
+
+Create a "gist on Github":https://gist.github.com/ that way we won't have to mess with switching out laptops. We can use a browser and talk about the code.
+
 h2. November 2, 2010
 
 h3. Mobile Application Development
