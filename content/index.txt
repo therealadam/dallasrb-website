@@ -11,7 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* December: TBA
+* February: TBA
+* March: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -25,20 +26,19 @@ h2. Upcoming Meeting
   <dd>You</dd>
 
    <dt>What:</dt>
-   <dd>2010: A Year in Code</dd>
+   <dd>Meetup @ The Londoner</dd>
 
    <dt>When:</dt>
-   <dd>December 7, 7-9pm</dd>
+   <dd>January 5, 7-9pm</dd>
 
    <dt>Where:</dt>
-   <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd>
+   <dd><a href="http://www.londoneraddison.com/">The Londoner</a> 14930 Midway Road, Addison, TX 75001 (<a href="http://bit.ly/fni18z">map</a>)</dd>
+   <!-- <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd> -->
  </dl>
 
-h3. 2010: A Year in Code
+h3. 2011 Meetup @ The Londoner
 
-Show off your most shameful, as well as the most awesomest, line(s) of Ruby code you wrote in 2010. Be ready to explain your code, why you wrote it, etc. We will vote on our favorites....maybe even have prizes for the winner and the loser.
-
-Create a "gist on Github":https://gist.github.com/ that way we won't have to mess with switching out laptops. We can use a browser and talk about the code.
+Since it is the beginning of the new year, it was decided that we should all get together to hangout, drink (or not), and talk Ruby and tech in a less formal setting.  If you have never been out to a Dallas.rb meeting, this is a great way to come get to know some of the local Rubyists.  We are open to anyone and everyone.
 
 "Previous Meetings":/previous.html
 

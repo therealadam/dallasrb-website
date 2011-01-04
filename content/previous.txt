@@ -9,6 +9,12 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. January 5, 2011
+
+h3. 2011 Meetup @ The Londoner
+
+Since it is the beginning of the new year, it was decided that we should all get together to hangout, drink (or not), and talk Ruby and tech in a less formal setting.  If you have never been out to a Dallas.rb meeting, this is a great way to come get to know some of the local Rubyists.  We are open to anyone and everyone.
+
 h2. December 7, 2010
 
 h3. 2010: A Year in Code
