@@ -23,22 +23,35 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>You</dd>
+  <dd>Geoffrey Dagley</dd>
 
    <dt>What:</dt>
-   <dd>Meetup @ The Londoner</dd>
+   <dd>Toystore, an Object Mapper for Key/Value Data Stores</dd>
 
    <dt>When:</dt>
-   <dd>January 5, 7-9pm</dd>
+   <dd>Feb 1, 7-9pm</dd>
 
    <dt>Where:</dt>
-   <dd><a href="http://www.londoneraddison.com/">The Londoner</a> 14930 Midway Road, Addison, TX 75001 (<a href="http://bit.ly/fni18z">map</a>)</dd>
-   <!-- <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd> -->
+   <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd>
  </dl>
 
-h3. 2011 Meetup @ The Londoner
+h3. Toystore, an Object Mapper for Key/Value Data Stores
 
-Since it is the beginning of the new year, it was decided that we should all get together to hangout, drink (or not), and talk Ruby and tech in a less formal setting.  If you have never been out to a Dallas.rb meeting, this is a great way to come get to know some of the local Rubyists.  We are open to anyone and everyone.
+From "Data Modeling in Performant Systems by John Nunemaker":http://railstips.org/blog/archives/2011/01/27/data-modeling-in-performant-systems/:
+
+bq. Keeping an application performant is all about finding bottlenecks and fixing them. The problem is each bottleneck you fix leads to more usage and a new bottleneck. It is a constant game of cat and mouse. Sometimes you are the cat and sometimes, well, you are not.
+
+bq. Most of the time, the removal of those bottlenecks is about moving hot data to places that can serve it faster. Disks are slow, memory is fast, enter more memcached.
+
+bq. Over time, you work and work to move hot data into memory and simplify your data access to fit into memory. Key here, value there. Eventually, you get to a place where you have simplified how you access your data into simple key/value lookups.
+
+At "Zynga With Friends":http://www.zyngawithfriends.com, we were looking for ways to leverage some of the new NoSQL technologies without giving up some of the ease of the ORM we had grown used to with ActiveRecord.  That is how "Toystore":https://github.com/newtoy/toystore was born.
+
+We will take a look at "Adapter":https://github.com/newtoy/adapter, a common interface to key/value data stores.  After that we will see what "Toystore":https://github.com/newtoy/toystore can provide, the reasoning behind it, and the design decisions made along the way.
+
+h3. Geoffrey Dagley
+
+Geoffrey works for "Zynga with Friends (formally Newtoy)":http://www.zyngawithfriends.com, creators of "Words with Friends":http://itunes.apple.com/us/app/words-with-friends-free/id321916506?mt=8 and "Chess with Friends":http://itunes.apple.com/us/app/chess-with-friends-free/id295436227?mt=8, where he is responsible for keeping the servers humming for the 2.5M+ daily users of the Games With Friends games.
 
 "Previous Meetings":/previous.html
 
