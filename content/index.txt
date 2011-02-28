@@ -23,22 +23,28 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>You</dd>
+  <dd>Scott Rosenthal</dd>
 
    <dt>What:</dt>
-   <dd>Meetup @ The Londoner</dd>
+   <dd>Architecture and design of KillerTechJobs.com</dd>
 
    <dt>When:</dt>
-   <dd>January 5, 7-9pm</dd>
+   <dd>March 1, 7-9pm</dd>
 
    <dt>Where:</dt>
-   <dd><a href="http://www.londoneraddison.com/">The Londoner</a> 14930 Midway Road, Addison, TX 75001 (<a href="http://bit.ly/fni18z">map</a>)</dd>
-   <!-- <dd><a href="http://www.improvingenterprises.com/">Improving Enterprises</a> 15950 Dallas Parkway Suite 500, Dallas, TX 75248 (<a href="http://maps.google.com/maps?q=15950+Dallas+Pkwy,+Dallas,+TX+75248,+USA&#38;ie=UTF8&#38;z=16&#38;iwloc=addr&#38;om=1">map</a>) - the south building</dd> -->
+   <dd>
+      <a href="http://www.improvingenterprises.com/">Improving Enterprises</a><br/>
+      16633 Dallas Parkway, Ste 110, Dallas, TX 75001 (<a href="http://bit.ly/hAy69s">map</a>)
+   </dd>
  </dl>
 
-h3. 2011 Meetup @ The Londoner
+h3. Architecture and design of KillerTechJobs.com
 
-Since it is the beginning of the new year, it was decided that we should all get together to hangout, drink (or not), and talk Ruby and tech in a less formal setting.  If you have never been out to a Dallas.rb meeting, this is a great way to come get to know some of the local Rubyists.  We are open to anyone and everyone.
+Scott will demo and walk through a short overview of "KillerTechJobs.com":http://KillerTechJobs.com and then talk about some of the reasons he chose Ruby on Rails, the architecture, and frameworks used in the project.
+
+h3. Scott Rosenthal
+
+Scott Rosenthal is the sole engineer that built "KillerTechJobs.com":http://KillerTechJobs.com and has several years of experience working as an IT consultant with many different companies
 
 "Previous Meetings":/previous.html
 

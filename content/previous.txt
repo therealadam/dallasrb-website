@@ -9,6 +9,20 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. March 1, 2011
+
+h3. Architecture and design of KillerTechJobs.com
+
+Scott will demo and walk through a short overview of "KillerTechJobs.com":http://KillerTechJobs.com and then talk about some of the reasons he chose Ruby on Rails, the architecture, and frameworks used in the project.
+
+h3. Scott Rosenthal
+
+Scott Rosenthal is the sole engineer that built "KillerTechJobs.com":http://KillerTechJobs.com and has several years of experience working as an IT consultant with many different companies
+
+h2. February 1, 2011
+
+h3. Cancelled due to weather
+
 h2. January 5, 2011
 
 h3. 2011 Meetup @ The Londoner
