@@ -19,9 +19,25 @@ h3. Scott Rosenthal
 
 Scott Rosenthal is the sole engineer that built "KillerTechJobs.com":http://KillerTechJobs.com and has several years of experience working as an IT consultant with many different companies
 
-h2. February 1, 2011
+h2. February 1, 2011 - Cancelled, due to weather
 
-h3. Cancelled due to weather
+h3. Toystore, an Object Mapper for Key/Value Data Stores
+
+From "Data Modeling in Performant Systems by John Nunemaker":http://railstips.org/blog/archives/2011/01/27/data-modeling-in-performant-systems/:
+
+bq. Keeping an application performant is all about finding bottlenecks and fixing them. The problem is each bottleneck you fix leads to more usage and a new bottleneck. It is a constant game of cat and mouse. Sometimes you are the cat and sometimes, well, you are not.
+
+bq. Most of the time, the removal of those bottlenecks is about moving hot data to places that can serve it faster. Disks are slow, memory is fast, enter more memcached.
+
+bq. Over time, you work and work to move hot data into memory and simplify your data access to fit into memory. Key here, value there. Eventually, you get to a place where you have simplified how you access your data into simple key/value lookups.
+
+At "Zynga With Friends":http://www.zyngawithfriends.com, we were looking for ways to leverage some of the new NoSQL technologies without giving up some of the ease of the ORM we had grown used to with ActiveRecord.  That is how "Toystore":https://github.com/newtoy/toystore was born.
+
+We will take a look at "Adapter":https://github.com/newtoy/adapter, a common interface to key/value data stores.  After that we will see what "Toystore":https://github.com/newtoy/toystore can provide, the reasoning behind it, and the design decisions made along the way.
+
+h3. Geoffrey Dagley
+
+Geoffrey works for "Zynga with Friends (formally Newtoy)":http://www.zyngawithfriends.com, creators of "Words with Friends":http://itunes.apple.com/us/app/words-with-friends-free/id321916506?mt=8 and "Chess with Friends":http://itunes.apple.com/us/app/chess-with-friends-free/id295436227?mt=8, where he is responsible for keeping the servers humming for the 2.5M+ daily users of the Games With Friends games.
 
 h2. January 5, 2011
 
