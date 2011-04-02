@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* February: TBA
-* March: TBA
+* May: TBA
+* June: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -29,10 +29,11 @@ h2. Upcoming Meeting
    <dd>Architecture and design of KillerTechJobs.com</dd>
 
    <dt>When:</dt>
-   <dd>March 1, 7-9pm</dd>
+   <dd>April 5, 7-9pm</dd>
 
    <dt>Where:</dt>
    <dd>
+      <strong>NEW LOCATION</strong><br/>
       <a href="http://www.improvingenterprises.com/">Improving Enterprises</a><br/>
       16633 Dallas Parkway, Ste 110, Dallas, TX 75001 (<a href="http://bit.ly/hAy69s">map</a>)
    </dd>
