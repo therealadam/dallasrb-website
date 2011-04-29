@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. May 3, 2011
+
+h3. Mixing Persistence Cocktails
+
+Adam Keys will pontificate on the history of growing the "Gowalla API":http://gowalla.com/api/docs and applications, how to work with multiple databases, and how to iteratively work with high traffic apps.
+
+h3. Adam Keys
+
+Adam Keys is a software developer, entertainer and lover of animals. He works at "Gowalla":http://gowalla.com/, reads a lot, and enjoys cracking wise.
+
 h2. April 5, 2011
 
 h3. Architecture and design of KillerTechJobs.com

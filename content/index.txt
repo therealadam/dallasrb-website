@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* May: TBA
 * June: TBA
+* July: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Scott Rosenthal</dd>
+  <dd>Adam Keys</dd>
 
    <dt>What:</dt>
-   <dd>Architecture and design of KillerTechJobs.com</dd>
+   <dd>Mixing Persistence Cocktails</dd>
 
    <dt>When:</dt>
-   <dd>April 5, 7-9pm</dd>
+   <dd>May 3, 7-9pm</dd>
 
    <dt>Where:</dt>
    <dd>
@@ -39,13 +39,13 @@ h2. Upcoming Meeting
    </dd>
  </dl>
 
-h3. Architecture and design of KillerTechJobs.com
+h3. Mixing Persistence Cocktails
 
-Scott will demo and walk through a short overview of "KillerTechJobs.com":http://KillerTechJobs.com and then talk about some of the reasons he chose Ruby on Rails, the architecture, and frameworks used in the project.
+Adam Keys will pontificate on the history of growing the "Gowalla API":http://gowalla.com/api/docs and applications, how to work with multiple databases, and how to iteratively work with high traffic apps.
 
-h3. Scott Rosenthal
+h3. Adam Keys
 
-Scott Rosenthal is the sole engineer that built "KillerTechJobs.com":http://KillerTechJobs.com and has several years of experience working as an IT consultant with many different companies
+Adam Keys is a software developer, entertainer and lover of animals. He works at "Gowalla":http://gowalla.com/, reads a lot, and enjoys cracking wise.
 
 "Previous Meetings":/previous.html
 
