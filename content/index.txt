@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* June: TBA
 * July: TBA
+* August: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Adam Keys</dd>
+  <dd>Jesse Dearing</dd>
 
    <dt>What:</dt>
-   <dd>Mixing Persistence Cocktails</dd>
+   <dd>Beyond Convention Over Configuration: Rails 3 Best Practices</dd>
 
    <dt>When:</dt>
-   <dd>May 3, 7-9pm</dd>
+   <dd>June 7, 7-9pm</dd>
 
    <dt>Where:</dt>
    <dd>
@@ -39,13 +39,13 @@ h2. Upcoming Meeting
    </dd>
  </dl>
 
-h3. Mixing Persistence Cocktails
+h3. Beyond Convention Over Configuration: Rails 3 Best Practices
 
-Adam Keys will pontificate on the history of growing the "Gowalla API":http://gowalla.com/api/docs and applications, how to work with multiple databases, and how to iteratively work with high traffic apps.
+Jesse will be combining what he has gathered from experience, the "Code School Rails Best Practices":http://railsbest.com/, and a few other talks he has been to.
 
-h3. Adam Keys
+h3. Jesse Dearing
 
-Adam Keys is a software developer, entertainer and lover of animals. He works at "Gowalla":http://gowalla.com/, reads a lot, and enjoys cracking wise.
+Jesse Dearing is a full stack web developer with polyglot tendencies. Jesse currently works for "Fellowship Technologies, now part of Active Network":http://www.fellowshiptech.com/, reads and writes a lot, and enjoys spending time with his wife and pets.
 
 "Previous Meetings":/previous.html
 

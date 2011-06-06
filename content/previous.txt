@@ -9,6 +9,16 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. June 7, 2011
+
+h3. Beyond Convention Over Configuration: Rails 3 Best Practices
+
+Jesse will be combining what he has gathered from experience, the "Code School Rails Best Practices":http://railsbest.com/, and a few other talks he has been to.
+
+h3. Jesse Dearing
+
+Jesse Dearing is a full stack web developer with polyglot tendencies. Jesse currently works for "Fellowship Technologies, now part of Active Network":http://www.fellowshiptech.com/, reads and writes a lot, and enjoys spending time with his wife and pets.
+
 h2. May 3, 2011
 
 h3. Mixing Persistence Cocktails
