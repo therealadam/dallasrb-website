@@ -9,6 +9,25 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. August 2, 2011
+
+h3. Ruby, Rails, and Winning!
+
+Step inside the world of using Ruby and Rails in the hotness that is Developer Contests. Through my recent experiences we'll explore:
+
+* *Contest Logistics*: Where do I find these? How do you choose the "right sized" project?
+* *Technical Lessons Learned*
+* *After the Deadline*: Waiting, coping, celebrating
+* *After the After*: What do I do with this thing now?
+
+We'll actually spend the bulk of the time looking at different technical implementations, exploring projects that hook together several web services into offerings that are cool and hip.
+
+h3. Mark McSpadden
+
+Mark does Ruby and Rails and has for quite a while now. He has recently been on a contest kick and has faired pretty well. In May, his "Book Chirpa":http://www.bookchirpa.com won first prize in the O'Reilly/Fluidinfo Writable API contest. In July, his "Charity Chirpa":http://www.charitychirpa.com won the Wildcard category of the Donor's Choose Hacking Eduction contest. And in late July he won absolutely nothing for his entry into the Evernote Developer's Competition, "Elephant Tracks":http://www.elephanttracksapp.com. He also has a fairly unsuccessful record with the Google Code Jam in 2009, 2010, and 2011.
+
+More about Mark at "http://www.markmcspadden.net":http://www.markmcspadden.net
+
 h2. June 7, 2011
 
 h3. Beyond Convention Over Configuration: Rails 3 Best Practices

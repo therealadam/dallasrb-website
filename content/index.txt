@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>Who:</dt>
-  <dd>Jesse Dearing</dd>
+  <dd>Mark McSpadden</dd>
 
    <dt>What:</dt>
-   <dd>Beyond Convention Over Configuration: Rails 3 Best Practices</dd>
+   <dd>Ruby, Rails, and Winning!</dd>
 
    <dt>When:</dt>
-   <dd>June 7, 7-9pm</dd>
+   <dd>August 2, 7-9pm</dd>
 
    <dt>Where:</dt>
    <dd>
@@ -39,13 +39,23 @@ h2. Upcoming Meeting
    </dd>
  </dl>
 
-h3. Beyond Convention Over Configuration: Rails 3 Best Practices
+h3. Ruby, Rails, and Winning!
 
-Jesse will be combining what he has gathered from experience, the "Code School Rails Best Practices":http://railsbest.com/, and a few other talks he has been to.
+Step inside the world of using Ruby and Rails in the hotness that is Developer Contests. Through my recent experiences we'll explore:
 
-h3. Jesse Dearing
+* *Contest Logistics*: Where do I find these? How do you choose the "right sized" project?
+* *Technical Lessons Learned*
+* *After the Deadline*: Waiting, coping, celebrating
+* *After the After*: What do I do with this thing now?
 
-Jesse Dearing is a full stack web developer with polyglot tendencies. Jesse currently works for "Fellowship Technologies, now part of Active Network":http://www.fellowshiptech.com/, reads and writes a lot, and enjoys spending time with his wife and pets.
+We'll actually spend the bulk of the time looking at different technical implementations, exploring projects that hook together several web services into offerings that are cool and hip.
+
+h3. Mark McSpadden
+
+Mark does Ruby and Rails and has for quite a while now. He has recently been on a contest kick and has faired pretty well. In May, his "Book Chirpa":http://www.bookchirpa.com won first prize in the O'Reilly/Fluidinfo Writable API contest. In July, his "Charity Chirpa":http://www.charitychirpa.com won the Wildcard category of the Donor's Choose Hacking Eduction contest. And in late July he won absolutely nothing for his entry into the Evernote Developer's Competition, "Elephant Tracks":http://www.elephanttracksapp.com. He also has a fairly unsuccessful record with the Google Code Jam in 2009, 2010, and 2011.
+
+More about Mark at "http://www.markmcspadden.net":http://www.markmcspadden.net
+
 
 "Previous Meetings":/previous.html
 
