@@ -9,6 +9,20 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. September 6, 2011
+
+h3. Ruby Newbie Q&A
+
+Do you have Ruby questions that have been keeping you up at night?  What are mixins? Why can I find out what happened 4.weeks.ago in Rails?  Where should I deploy my next cool app?  Should I use MySQL or NoSQL? What is the github all the kids are talking about?  How can I get a full-time job programming Ruby and/or Rails everyday? Do I even want that?
+
+With all the new faces that we have been seeing at the Dallas.rb in recent months, we want to take some time and give you a chance to ask those questions and many more.  Bring your questions and we will bring pizza, sodas, and answers.  Don't miss chance to get those questions answered.
+
+Not a newbie? Come share your wisdom and experiences. You might even be surprised to learn a new thing or two yourself.
+
+h3. Everyone
+
+We welcome everyone to the Dallas.rb meetings.  Come out and ask questions, help answer questions, or just be a part of the conversation.  There is always something new to learn!
+
 h2. August 2, 2011
 
 h3. Ruby, Rails, and Winning!
